@@ -1,0 +1,2006 @@
+LOCUS       XM_002298228            1248 bp    mRNA    linear   PLN 31-DEC-2013
+DEFINITION  Populus trichocarpa hypothetical protein (POPTR_0001s22370g) mRNA,
+            complete cds.
+ACCESSION   XM_002298228
+VERSION     XM_002298228.1
+KEYWORDS    RefSeq.
+SOURCE      Populus trichocarpa (Populus balsamifera subsp. trichocarpa)
+  ORGANISM  Populus trichocarpa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Malpighiales; Salicaceae; Saliceae;
+            Populus.
+REFERENCE   1  (bases 1 to 1248)
+  AUTHORS   Tuskan,G.A., Difazio,S., Jansson,S., Bohlmann,J., Grigoriev,I.,
+            Hellsten,U., Putnam,N., Ralph,S., Rombauts,S., Salamov,A.,
+            Schein,J., Sterck,L., Aerts,A., Bhalerao,R.R., Bhalerao,R.P.,
+            Blaudez,D., Boerjan,W., Brun,A., Brunner,A., Busov,V., Campbell,M.,
+            Carlson,J., Chalot,M., Chapman,J., Chen,G.L., Cooper,D.,
+            Coutinho,P.M., Couturier,J., Covert,S., Cronk,Q., Cunningham,R.,
+            Davis,J., Degroeve,S., Dejardin,A., Depamphilis,C., Detter,J.,
+            Dirks,B., Dubchak,I., Duplessis,S., Ehlting,J., Ellis,B.,
+            Gendler,K., Goodstein,D., Gribskov,M., Grimwood,J., Groover,A.,
+            Gunter,L., Hamberger,B., Heinze,B., Helariutta,Y., Henrissat,B.,
+            Holligan,D., Holt,R., Huang,W., Islam-Faridi,N., Jones,S.,
+            Jones-Rhoades,M., Jorgensen,R., Joshi,C., Kangasjarvi,J.,
+            Karlsson,J., Kelleher,C., Kirkpatrick,R., Kirst,M., Kohler,A.,
+            Kalluri,U., Larimer,F., Leebens-Mack,J., Leple,J.C., Locascio,P.,
+            Lou,Y., Lucas,S., Martin,F., Montanini,B., Napoli,C., Nelson,D.R.,
+            Nelson,C., Nieminen,K., Nilsson,O., Pereda,V., Peter,G.,
+            Philippe,R., Pilate,G., Poliakov,A., Razumovskaya,J.,
+            Richardson,P., Rinaldi,C., Ritland,K., Rouze,P., Ryaboy,D.,
+            Schmutz,J., Schrader,J., Segerman,B., Shin,H., Siddiqui,A.,
+            Sterky,F., Terry,A., Tsai,C.J., Uberbacher,E., Unneberg,P.,
+            Vahala,J., Wall,K., Wessler,S., Yang,G., Yin,T., Douglas,C.,
+            Marra,M., Sandberg,G., Van de Peer,Y. and Rokhsar,D.
+  TITLE     The genome of black cottonwood, Populus trichocarpa (Torr. & Gray)
+  JOURNAL   Science 313 (5793), 1596-1604 (2006)
+   PUBMED   16973872
+REFERENCE   2  (bases 1 to 1248)
+  AUTHORS   Shu,S., Lucas,S., Jenkins,J., Grimwood,J., Muchero,w., Hayes,R.,
+            Goodstein,D., Rokhsar,D., Schmutz,J. and Tuskan,G.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-SEP-2012) US DOE Joint Genome Institute, Mitchell
+            Drive B100, Walnut Creek, CA 94598-1698, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NC_008467).
+            COMPLETENESS: incomplete on both ends.
+FEATURES             Location/Qualifiers
+     source          1..1248
+                     /organism="Populus trichocarpa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3694"
+                     /linkage_group="LGI"
+     gene            <1..>1248
+                     /locus_tag="POPTR_0001s22370g"
+                     /old_locus_tag="POPTRDRAFT_797590"
+                     /db_xref="GeneID:7475137"
+     CDS             1..1248
+                     /locus_tag="POPTR_0001s22370g"
+                     /old_locus_tag="POPTRDRAFT_797590"
+                     /note="encoded by transcript POPTR_0001s223701"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_002298264.1"
+                     /db_xref="Phytozome:POPTR_0001s22370.1.p"
+                     /db_xref="GeneID:7475137"
+                     /translation="MDQIDVPYHFLCPISLQLMRDPVTVSTGITYDRENIEKWLFSCK
+                     NKTCPVTKQELFTKDLTPNHTLRRLIQAWCTLNASFGIERIPTPKPLADRAQISKLLN
+                     DAKKFPHLLLKSLRRLRSITLESERNRSCLEEAGVVDFLASILKTDNSTSVQIDSDDN
+                     ESEFTRASDEALNILYHLKISQRQLKNLIINDSDRFLESLLQILKHSSYQSRAYATML
+                     LKSVFEVADPTHLISIRPEMFVEIVRVLDDQISQQASKAALKLLVEICPWGRNRIKAV
+                     EGGAVSVLIELLLDTSDKRACELILAVLELLCGCADGRAELLKHGAGLAVVSKKILRV
+                     SHVASDKAVRILCSICRFSATSRVLQEMLQVGAVAKLCLILQVDSSLKSKERAREILK
+                     VHSKVWRSSACIPAYLMSSYPSS"
+ORIGIN      
+        1 atggatcaaa tcgatgttcc ttatcatttt ctttgcccaa tttcccttca actcatgaga
+       61 gatccagtta cagtctcaac tgggattacc tatgatagag agaacattga gaaatggtta
+      121 ttttcatgca aaaataaaac ttgccctgtt acaaagcaag agttgtttac caaagatctc
+      181 accccaaacc acacccttcg tcgtttgatc caagcatggt gcaccctcaa tgcctcgttc
+      241 ggtatcgaga gaatcccaac tccaaagcca ctcgctgaca gagcccagat ctccaaactc
+      301 cttaatgatg ctaagaaatt tccacacttg ctgctcaaga gtctacgaag gcttagatca
+      361 atcacgcttg aaagtgaaag gaatagaagc tgtctagagg aagctggtgt agttgatttc
+      421 ttggcttcga tcttgaaaac tgataattct acttcagttc agatagacag cgatgataat
+      481 gaatcggagt tcacaagggc aagtgatgaa gcattgaaca ttctttatca tctcaaaata
+      541 tcacagaggc aattaaagaa tctgataatc aacgatagcg atcggtttct agagtcgttg
+      601 ctgcaaatct tgaagcatag tagctatcaa tctagagctt atgcgacaat gttgttgaag
+      661 tccgttttcg aagtggcaga tccaacgcat ttgattagta tcagaccgga aatgtttgtc
+      721 gagatagtac gcgtacttga tgatcagatc tcacaacagg cctcaaaggc agcattgaag
+      781 cttctcgtgg aaatttgtcc atggggaaga aaccgaatca aagccgtcga aggtggtgca
+      841 gtttctgtct tgatcgagct tcttcttgat acatcagaca agagagcttg tgaacttatt
+      901 ctagctgttt tagaactgct ttgtggttgt gctgatggac gagcagagtt attgaagcac
+      961 ggggcaggac tcgcagttgt ttccaagaaa atacttaggg tctctcatgt tgcaagtgat
+     1021 aaggcagtga gaattctgtg ctccatttgc aggttttctg caacttctag ggttcttcaa
+     1081 gaaatgttgc aggttggtgc tgtggccaag ttgtgcctga ttttgcaagt ggatagtagt
+     1141 ttaaagagca aggagagagc tagagagatc ctcaaggtgc actccaaggt ctggaggagc
+     1201 tctgcttgta tccctgcata tttgatgtct tcttatccat cttcctga
+//
+
+LOCUS       XM_002301000            1938 bp    mRNA    linear   PLN 31-DEC-2013
+DEFINITION  Populus trichocarpa high affinity sulfate transporter family
+            protein (POPTR_0002s09310g) mRNA, complete cds.
+ACCESSION   XM_002301000
+VERSION     XM_002301000.1
+KEYWORDS    RefSeq.
+SOURCE      Populus trichocarpa (Populus balsamifera subsp. trichocarpa)
+  ORGANISM  Populus trichocarpa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Malpighiales; Salicaceae; Saliceae;
+            Populus.
+REFERENCE   1  (bases 1 to 1938)
+  AUTHORS   Tuskan,G.A., Difazio,S., Jansson,S., Bohlmann,J., Grigoriev,I.,
+            Hellsten,U., Putnam,N., Ralph,S., Rombauts,S., Salamov,A.,
+            Schein,J., Sterck,L., Aerts,A., Bhalerao,R.R., Bhalerao,R.P.,
+            Blaudez,D., Boerjan,W., Brun,A., Brunner,A., Busov,V., Campbell,M.,
+            Carlson,J., Chalot,M., Chapman,J., Chen,G.L., Cooper,D.,
+            Coutinho,P.M., Couturier,J., Covert,S., Cronk,Q., Cunningham,R.,
+            Davis,J., Degroeve,S., Dejardin,A., Depamphilis,C., Detter,J.,
+            Dirks,B., Dubchak,I., Duplessis,S., Ehlting,J., Ellis,B.,
+            Gendler,K., Goodstein,D., Gribskov,M., Grimwood,J., Groover,A.,
+            Gunter,L., Hamberger,B., Heinze,B., Helariutta,Y., Henrissat,B.,
+            Holligan,D., Holt,R., Huang,W., Islam-Faridi,N., Jones,S.,
+            Jones-Rhoades,M., Jorgensen,R., Joshi,C., Kangasjarvi,J.,
+            Karlsson,J., Kelleher,C., Kirkpatrick,R., Kirst,M., Kohler,A.,
+            Kalluri,U., Larimer,F., Leebens-Mack,J., Leple,J.C., Locascio,P.,
+            Lou,Y., Lucas,S., Martin,F., Montanini,B., Napoli,C., Nelson,D.R.,
+            Nelson,C., Nieminen,K., Nilsson,O., Pereda,V., Peter,G.,
+            Philippe,R., Pilate,G., Poliakov,A., Razumovskaya,J.,
+            Richardson,P., Rinaldi,C., Ritland,K., Rouze,P., Ryaboy,D.,
+            Schmutz,J., Schrader,J., Segerman,B., Shin,H., Siddiqui,A.,
+            Sterky,F., Terry,A., Tsai,C.J., Uberbacher,E., Unneberg,P.,
+            Vahala,J., Wall,K., Wessler,S., Yang,G., Yin,T., Douglas,C.,
+            Marra,M., Sandberg,G., Van de Peer,Y. and Rokhsar,D.
+  TITLE     The genome of black cottonwood, Populus trichocarpa (Torr. & Gray)
+  JOURNAL   Science 313 (5793), 1596-1604 (2006)
+   PUBMED   16973872
+REFERENCE   2  (bases 1 to 1938)
+  AUTHORS   Shu,S., Lucas,S., Jenkins,J., Grimwood,J., Muchero,w., Hayes,R.,
+            Goodstein,D., Rokhsar,D., Schmutz,J. and Tuskan,G.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-SEP-2012) US DOE Joint Genome Institute, Mitchell
+            Drive B100, Walnut Creek, CA 94598-1698, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NC_008468).
+            COMPLETENESS: incomplete on both ends.
+FEATURES             Location/Qualifiers
+     source          1..1938
+                     /organism="Populus trichocarpa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3694"
+                     /linkage_group="LGII"
+     gene            <1..>1938
+                     /locus_tag="POPTR_0002s09310g"
+                     /old_locus_tag="POPTRDRAFT_551540"
+                     /db_xref="GeneID:7463199"
+     CDS             1..1938
+                     /locus_tag="POPTR_0002s09310g"
+                     /old_locus_tag="POPTRDRAFT_551540"
+                     /note="encoded by transcript POPTR_0002s093101"
+                     /codon_start=1
+                     /product="high affinity sulfate transporter family
+                     protein"
+                     /protein_id="XP_002301036.1"
+                     /db_xref="Phytozome:POPTR_0002s09310.1.p"
+                     /db_xref="GeneID:7463199"
+                     /translation="MDIRSLSSSHRHPQDAPYVHKVGLPPKQNLFSEFKATVKETFFA
+                     DDPLRPFKDQPSSKKFILCVQAIFPIFEWGRSYNFAKFRGDLIAGLTIASLCIPQDIA
+                     YAKLANLDPQYGLYTSFVPPLIYAFMGSSRDIAIGPVAVVSLLLGTLLQNEIDPVGNA
+                     TEYRRLAFTATFFAGITQVTLGFFRLGFLIDFLSHAAVVGFMGGAAITISLQQLKGFL
+                     GIKKFTKKTDIVSVMHSVFASAHHGWNWQTIVIGVSFLSFLLVAKYIGKKNKKFFWVP
+                     AIGPLISVVLSTFFVYITRADKQGVQIVKHIHKGINPPSVNQIYFSGDYLLKGARIGI
+                     VAGMIALTEAIAIGRTFAAMKDYQLDGNKEMVALGTMNVVGSMTSCYVATGSFSRSAV
+                     NYMAGCQTAVSNIVMATVVFFTLKFLTPLFKYTPNAILAAIIISAVISLIDFDAAYLI
+                     WKIDKFDFVACMGAFFGVVFVSVEIGLLIAVSISFAKILLQVTRPRTAILGNLPRTTV
+                     YRNILQYPEAAKVPGVLIVRVDSAIYFSNSNYIKERILRWLRDEDELVNKSGQTKIQF
+                     LIVEMSPVTDIDTSGIHAMEELFRSLQKREIQLILANPGPAVIDKLHASGSAQLIGED
+                     KIFLTVADAVASCCPKSVGEV"
+ORIGIN      
+        1 atggatattc gaagcctgtc atcctctcac cgtcatcctc aagatgcacc ttatgttcac
+       61 aaggttggac ttcctcctaa gcaaaacctc ttcagtgagt tcaaagccac tgtgaaagag
+      121 acattctttg cagatgatcc tctacgtccc tttaaggacc aaccgagttc taaaaagttc
+      181 atcctgtgcg tccaagctat attccctatt tttgaatggg gaagaagtta caattttgca
+      241 aaatttagag gtgacctcat tgctgggctg accattgcta gtctttgcat tccccaggat
+      301 atcgcgtatg caaagcttgc aaatttggat cctcagtatg gattgtacac cagctttgtt
+      361 ccacctttga tatatgcctt catgggtagt tcaagagaca tagcaatagg accagtggct
+      421 gtggtgtctc tcctgctggg gactctgctt cagaatgaaa ttgatcctgt aggcaacgca
+      481 acagaatatc ggaggctggc attcacagct acattttttg ctggaatcac tcaagtaacc
+      541 cttgggtttt tcaggttggg gtttttaatt gactttctat cacatgctgc tgttgttggt
+      601 ttcatgggtg gagctgccat cacaatttcc ctccaacagc ttaagggttt tcttgggata
+      661 aaaaaattta caaagaaaac tgatattgtt tctgtaatgc actcagtatt tgcctcagct
+      721 catcatggat ggaactggca aactattgtt attggagtga gctttttatc tttccttctt
+      781 gttgccaagt acattggaaa gaagaacaag aaattcttct gggtgccagc aattggtccg
+      841 ttgatatctg ttgttctgtc aacatttttt gtgtatataa cccgtgcgga taagcaagga
+      901 gttcaaattg tgaaacacat acacaaagga ataaatcccc cctctgtgaa tcaaatatat
+      961 tttagtggtg actatttgct aaaaggtgct aggattggta ttgtggctgg gatgattgct
+     1021 ttgacggaag ccatagctat tggaagaaca ttcgccgcga tgaaagacta tcagctggat
+     1081 ggaaacaaag aaatggtggc actaggaact atgaacgttg ttggttcaat gacttcttgc
+     1141 tatgtggcaa caggttcatt ttctcgatca gctgtgaact acatggctgg ctgccaaact
+     1201 gcagtctcaa acattgttat ggcgactgtt gtatttttca cgttaaaatt tttgacacct
+     1261 cttttcaagt ataccccaaa tgctatactc gcagccataa ttatatcagc tgtgatcagc
+     1321 ctgattgatt ttgatgcagc atatttgata tggaagattg acaaatttga ttttgttgct
+     1381 tgcatgggag cattctttgg tgtagttttt gtttctgttg agattggcct cttgattgca
+     1441 gtttcgatat cctttgccaa gattctcttg caagttacca ggccccggac cgcaattctt
+     1501 ggaaatctac cgaggacaac tgtatacaga aacattctac aatatcctga agcagctaag
+     1561 gtccctggtg ttttgatagt gagagtcgat tctgcgatct acttttctaa ctctaattac
+     1621 atcaaagaaa ggatattgag atggttgagg gatgaggatg agctagtaaa caaatccggc
+     1681 cagaccaaaa tccagttttt aattgtggag atgtcacccg ttactgacat tgacaccagt
+     1741 ggcatccatg cgatggaaga gttattcaga agtctccaga aaagagagat tcagcttatc
+     1801 ctagcaaatc ctggaccggc ggtgattgat aagctccatg cctctggttc tgcacaattg
+     1861 attggagagg acaaaatctt cctcacggtt gctgatgctg tggcatcatg ttgtccaaaa
+     1921 tcggtgggag aagtttga
+//
+
+LOCUS       XM_002307330             915 bp    mRNA    linear   PLN 31-DEC-2013
+DEFINITION  Populus trichocarpa hypothetical protein (POPTR_0005s17250g) mRNA,
+            complete cds.
+ACCESSION   XM_002307330
+VERSION     XM_002307330.1
+KEYWORDS    RefSeq.
+SOURCE      Populus trichocarpa (Populus balsamifera subsp. trichocarpa)
+  ORGANISM  Populus trichocarpa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Malpighiales; Salicaceae; Saliceae;
+            Populus.
+REFERENCE   1  (bases 1 to 915)
+  AUTHORS   Tuskan,G.A., Difazio,S., Jansson,S., Bohlmann,J., Grigoriev,I.,
+            Hellsten,U., Putnam,N., Ralph,S., Rombauts,S., Salamov,A.,
+            Schein,J., Sterck,L., Aerts,A., Bhalerao,R.R., Bhalerao,R.P.,
+            Blaudez,D., Boerjan,W., Brun,A., Brunner,A., Busov,V., Campbell,M.,
+            Carlson,J., Chalot,M., Chapman,J., Chen,G.L., Cooper,D.,
+            Coutinho,P.M., Couturier,J., Covert,S., Cronk,Q., Cunningham,R.,
+            Davis,J., Degroeve,S., Dejardin,A., Depamphilis,C., Detter,J.,
+            Dirks,B., Dubchak,I., Duplessis,S., Ehlting,J., Ellis,B.,
+            Gendler,K., Goodstein,D., Gribskov,M., Grimwood,J., Groover,A.,
+            Gunter,L., Hamberger,B., Heinze,B., Helariutta,Y., Henrissat,B.,
+            Holligan,D., Holt,R., Huang,W., Islam-Faridi,N., Jones,S.,
+            Jones-Rhoades,M., Jorgensen,R., Joshi,C., Kangasjarvi,J.,
+            Karlsson,J., Kelleher,C., Kirkpatrick,R., Kirst,M., Kohler,A.,
+            Kalluri,U., Larimer,F., Leebens-Mack,J., Leple,J.C., Locascio,P.,
+            Lou,Y., Lucas,S., Martin,F., Montanini,B., Napoli,C., Nelson,D.R.,
+            Nelson,C., Nieminen,K., Nilsson,O., Pereda,V., Peter,G.,
+            Philippe,R., Pilate,G., Poliakov,A., Razumovskaya,J.,
+            Richardson,P., Rinaldi,C., Ritland,K., Rouze,P., Ryaboy,D.,
+            Schmutz,J., Schrader,J., Segerman,B., Shin,H., Siddiqui,A.,
+            Sterky,F., Terry,A., Tsai,C.J., Uberbacher,E., Unneberg,P.,
+            Vahala,J., Wall,K., Wessler,S., Yang,G., Yin,T., Douglas,C.,
+            Marra,M., Sandberg,G., Van de Peer,Y. and Rokhsar,D.
+  TITLE     The genome of black cottonwood, Populus trichocarpa (Torr. & Gray)
+  JOURNAL   Science 313 (5793), 1596-1604 (2006)
+   PUBMED   16973872
+REFERENCE   2  (bases 1 to 915)
+  AUTHORS   Shu,S., Lucas,S., Jenkins,J., Grimwood,J., Muchero,w., Hayes,R.,
+            Goodstein,D., Rokhsar,D., Schmutz,J. and Tuskan,G.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-SEP-2012) US DOE Joint Genome Institute, Mitchell
+            Drive B100, Walnut Creek, CA 94598-1698, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NC_008471).
+            COMPLETENESS: incomplete on both ends.
+FEATURES             Location/Qualifiers
+     source          1..915
+                     /organism="Populus trichocarpa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3694"
+                     /linkage_group="LGV"
+     gene            <1..>915
+                     /locus_tag="POPTR_0005s17250g"
+                     /old_locus_tag="POPTRDRAFT_559074"
+                     /db_xref="GeneID:7486583"
+     CDS             1..915
+                     /locus_tag="POPTR_0005s17250g"
+                     /old_locus_tag="POPTRDRAFT_559074"
+                     /note="encoded by transcript POPTR_0005s172501"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_002307366.1"
+                     /db_xref="Phytozome:POPTR_0005s17250.1.p"
+                     /db_xref="GeneID:7486583"
+                     /translation="MASISHLIIFTSLLALFSSLVPAVATARLLALVQEQPLVLKYHN
+                     GPLLKGNITVNIVWYGKFSPAQRSIIVDFLHSLNSMKPPAPSVSTWWRTTGRFRGGPR
+                     TVVVGKQVLEEKYSLGKLLKTPQTVTLASKAGHGKNSINLILTSADVAIDGFCMSKCG
+                     THGSGQDKVGKFAYAWVGNSATQCPGQCAWPFHQPIYGPQGPPLVAPNGDVGIDGMIV
+                     NLATVLAGTVTNPFNNGYFQGPANAPLEAVSACTGIFGKGAYPGYPGEVLVDKTTGAS
+                     YNAFGINGRKYLLPAMWDPTTSTCKTLV"
+ORIGIN      
+        1 atggcttcca tttcccatct catcattttc acttcactgc ttgcgctctt ctcttcactt
+       61 gttcctgccg tagccacagc aagactgctt gctttagttc aagaacaacc tcttgtcctc
+      121 aagtaccaca acggcccgct tctcaaaggc aacatcacag taaacatcgt ctggtatggc
+      181 aagttctcac cagcccagcg ctccataatt gttgactttc tccactctct taattccatg
+      241 aagcccccgg caccttcagt ctcaacatgg tggcgaacta ctgggaggtt caggggaggc
+      301 ccacgcactg tagtcgtagg taaacaagtc cttgaagaaa aatactctct tggaaagttg
+      361 ctaaagaccc cacagactgt tactttagcg tcaaaagctg gccacggcaa gaattcaatc
+      421 aaccttatac ttacctctgc tgacgtggcg atcgatgggt tttgcatgag caagtgtggg
+      481 acccatgggt ctggtcagga caaggtgggt aaatttgcct atgcgtgggt cggtaactcc
+      541 gcgactcagt gtccaggtca atgtgcgtgg cctttccacc agccaattta cgggccacaa
+      601 ggtccaccgc tggtggctcc taacggtgac gtaggaattg acggcatgat cgttaatttg
+      661 gccacggttt tagcgggaac agtaacgaat ccgtttaata acgggtattt ccaagggcca
+      721 gctaacgcac ctctagaggc tgtgagcgcg tgcactggta tttttggtaa gggggcttac
+      781 ccgggatatc caggggaggt tttggtggac aaaacgacag gagcaagcta taatgctttt
+      841 ggtatcaacg ggcgcaagta cttgctccca gcaatgtggg atccaacaac gtccacctgt
+      901 aaaaccctcg tttga
+//
+
+LOCUS       XM_002309379             600 bp    mRNA    linear   PLN 31-DEC-2013
+DEFINITION  Populus trichocarpa integral membrane family protein
+            (POPTR_0006s22510g) mRNA, complete cds.
+ACCESSION   XM_002309379
+VERSION     XM_002309379.1
+KEYWORDS    RefSeq.
+SOURCE      Populus trichocarpa (Populus balsamifera subsp. trichocarpa)
+  ORGANISM  Populus trichocarpa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Malpighiales; Salicaceae; Saliceae;
+            Populus.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Tuskan,G.A., Difazio,S., Jansson,S., Bohlmann,J., Grigoriev,I.,
+            Hellsten,U., Putnam,N., Ralph,S., Rombauts,S., Salamov,A.,
+            Schein,J., Sterck,L., Aerts,A., Bhalerao,R.R., Bhalerao,R.P.,
+            Blaudez,D., Boerjan,W., Brun,A., Brunner,A., Busov,V., Campbell,M.,
+            Carlson,J., Chalot,M., Chapman,J., Chen,G.L., Cooper,D.,
+            Coutinho,P.M., Couturier,J., Covert,S., Cronk,Q., Cunningham,R.,
+            Davis,J., Degroeve,S., Dejardin,A., Depamphilis,C., Detter,J.,
+            Dirks,B., Dubchak,I., Duplessis,S., Ehlting,J., Ellis,B.,
+            Gendler,K., Goodstein,D., Gribskov,M., Grimwood,J., Groover,A.,
+            Gunter,L., Hamberger,B., Heinze,B., Helariutta,Y., Henrissat,B.,
+            Holligan,D., Holt,R., Huang,W., Islam-Faridi,N., Jones,S.,
+            Jones-Rhoades,M., Jorgensen,R., Joshi,C., Kangasjarvi,J.,
+            Karlsson,J., Kelleher,C., Kirkpatrick,R., Kirst,M., Kohler,A.,
+            Kalluri,U., Larimer,F., Leebens-Mack,J., Leple,J.C., Locascio,P.,
+            Lou,Y., Lucas,S., Martin,F., Montanini,B., Napoli,C., Nelson,D.R.,
+            Nelson,C., Nieminen,K., Nilsson,O., Pereda,V., Peter,G.,
+            Philippe,R., Pilate,G., Poliakov,A., Razumovskaya,J.,
+            Richardson,P., Rinaldi,C., Ritland,K., Rouze,P., Ryaboy,D.,
+            Schmutz,J., Schrader,J., Segerman,B., Shin,H., Siddiqui,A.,
+            Sterky,F., Terry,A., Tsai,C.J., Uberbacher,E., Unneberg,P.,
+            Vahala,J., Wall,K., Wessler,S., Yang,G., Yin,T., Douglas,C.,
+            Marra,M., Sandberg,G., Van de Peer,Y. and Rokhsar,D.
+  TITLE     The genome of black cottonwood, Populus trichocarpa (Torr. & Gray)
+  JOURNAL   Science 313 (5793), 1596-1604 (2006)
+   PUBMED   16973872
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Shu,S., Lucas,S., Jenkins,J., Grimwood,J., Muchero,w., Hayes,R.,
+            Goodstein,D., Rokhsar,D., Schmutz,J. and Tuskan,G.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-SEP-2012) US DOE Joint Genome Institute, Mitchell
+            Drive B100, Walnut Creek, CA 94598-1698, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NC_008472).
+            COMPLETENESS: incomplete on both ends.
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Populus trichocarpa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3694"
+                     /linkage_group="LGVI"
+     gene            <1..>600
+                     /locus_tag="POPTR_0006s22510g"
+                     /old_locus_tag="POPTRDRAFT_763057"
+                     /db_xref="GeneID:7492240"
+     CDS             1..600
+                     /locus_tag="POPTR_0006s22510g"
+                     /old_locus_tag="POPTRDRAFT_763057"
+                     /note="encoded by transcript POPTR_0006s225101"
+                     /codon_start=1
+                     /product="integral membrane family protein"
+                     /protein_id="XP_002309415.1"
+                     /db_xref="Phytozome:POPTR_0006s22510.1.p"
+                     /db_xref="GeneID:7492240"
+                     /translation="MKSESAAIDIPESSSVAKGKAPLIAVSRNEKGGYRKGIAIFDFI
+                     LRLAAIATALAAAAAMGTSDETLPFFTQFFQFQASYDDLPTFQFFVIAIAIVGGYLVL
+                     SLPFSIVAIVRPHAVGPRLLLIILDAVALTLNTAAGAAAAAIVYLAHNGNSNTNWLAI
+                     CQQYGDFCQKVSGAVVASFITVVIFVFLIVLSAFALRRH"
+ORIGIN      
+        1 atgaagagtg aatcagcagc aattgatatc ccagagtcta gctctgttgc taaaggaaaa
+       61 gcacctctca tagctgtttc caggaatgaa aagggaggat acaggaaggg gattgccata
+      121 tttgacttca ttctaaggct agctgctata gcgactgctc tagctgctgc tgctgccatg
+      181 ggaactagtg atgaaaccct tccattcttc actcagttct tccagttcca agctagctat
+      241 gatgatcttc ccactttcca gtttttcgtc attgcaatcg caatagttgg tggctacctg
+      301 gtcctttccc ttccattctc catagtagct attgtccgcc cacatgcagt tggaccaagg
+      361 ctcctgctga ttattttgga cgctgttgca cttaccctaa acactgctgc tggggctgca
+      421 gctgctgcca tagtctactt ggctcacaat ggcaactcaa acacaaactg gcttgctatc
+      481 tgtcaacagt atggtgattt ctgccagaaa gtcagtggag ctgtggtggc atcattcatc
+      541 actgttgtca tcttcgtttt tttgattgtg ctgtcagctt tcgctctgcg aaggcattaa
+//
+
+LOCUS       XM_002310128            1614 bp    mRNA    linear   PLN 31-DEC-2013
+DEFINITION  Populus trichocarpa multi-copper oxidase type 1 family protein
+            (POPTR_0007s11610g) mRNA, complete cds.
+ACCESSION   XM_002310128
+VERSION     XM_002310128.1
+KEYWORDS    RefSeq.
+SOURCE      Populus trichocarpa (Populus balsamifera subsp. trichocarpa)
+  ORGANISM  Populus trichocarpa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Malpighiales; Salicaceae; Saliceae;
+            Populus.
+REFERENCE   1  (bases 1 to 1614)
+  AUTHORS   Tuskan,G.A., Difazio,S., Jansson,S., Bohlmann,J., Grigoriev,I.,
+            Hellsten,U., Putnam,N., Ralph,S., Rombauts,S., Salamov,A.,
+            Schein,J., Sterck,L., Aerts,A., Bhalerao,R.R., Bhalerao,R.P.,
+            Blaudez,D., Boerjan,W., Brun,A., Brunner,A., Busov,V., Campbell,M.,
+            Carlson,J., Chalot,M., Chapman,J., Chen,G.L., Cooper,D.,
+            Coutinho,P.M., Couturier,J., Covert,S., Cronk,Q., Cunningham,R.,
+            Davis,J., Degroeve,S., Dejardin,A., Depamphilis,C., Detter,J.,
+            Dirks,B., Dubchak,I., Duplessis,S., Ehlting,J., Ellis,B.,
+            Gendler,K., Goodstein,D., Gribskov,M., Grimwood,J., Groover,A.,
+            Gunter,L., Hamberger,B., Heinze,B., Helariutta,Y., Henrissat,B.,
+            Holligan,D., Holt,R., Huang,W., Islam-Faridi,N., Jones,S.,
+            Jones-Rhoades,M., Jorgensen,R., Joshi,C., Kangasjarvi,J.,
+            Karlsson,J., Kelleher,C., Kirkpatrick,R., Kirst,M., Kohler,A.,
+            Kalluri,U., Larimer,F., Leebens-Mack,J., Leple,J.C., Locascio,P.,
+            Lou,Y., Lucas,S., Martin,F., Montanini,B., Napoli,C., Nelson,D.R.,
+            Nelson,C., Nieminen,K., Nilsson,O., Pereda,V., Peter,G.,
+            Philippe,R., Pilate,G., Poliakov,A., Razumovskaya,J.,
+            Richardson,P., Rinaldi,C., Ritland,K., Rouze,P., Ryaboy,D.,
+            Schmutz,J., Schrader,J., Segerman,B., Shin,H., Siddiqui,A.,
+            Sterky,F., Terry,A., Tsai,C.J., Uberbacher,E., Unneberg,P.,
+            Vahala,J., Wall,K., Wessler,S., Yang,G., Yin,T., Douglas,C.,
+            Marra,M., Sandberg,G., Van de Peer,Y. and Rokhsar,D.
+  TITLE     The genome of black cottonwood, Populus trichocarpa (Torr. & Gray)
+  JOURNAL   Science 313 (5793), 1596-1604 (2006)
+   PUBMED   16973872
+REFERENCE   2  (bases 1 to 1614)
+  AUTHORS   Shu,S., Lucas,S., Jenkins,J., Grimwood,J., Muchero,w., Hayes,R.,
+            Goodstein,D., Rokhsar,D., Schmutz,J. and Tuskan,G.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-SEP-2012) US DOE Joint Genome Institute, Mitchell
+            Drive B100, Walnut Creek, CA 94598-1698, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NC_008473).
+            COMPLETENESS: incomplete on both ends.
+FEATURES             Location/Qualifiers
+     source          1..1614
+                     /organism="Populus trichocarpa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3694"
+                     /linkage_group="LGVII"
+     gene            <1..>1614
+                     /locus_tag="POPTR_0007s11610g"
+                     /old_locus_tag="POPTRDRAFT_802871"
+                     /db_xref="GeneID:7483137"
+     CDS             1..1614
+                     /locus_tag="POPTR_0007s11610g"
+                     /old_locus_tag="POPTRDRAFT_802871"
+                     /note="encoded by transcript POPTR_0007s116101"
+                     /codon_start=1
+                     /product="multi-copper oxidase type 1 family protein"
+                     /protein_id="XP_002310164.1"
+                     /db_xref="Phytozome:POPTR_0007s11610.1.p"
+                     /db_xref="GeneID:7483137"
+                     /translation="MRQASILYFCVGILAFLSDTWVQAEDPYRYYTWTVTYGTRTVLD
+                     IPQTVILINGQFPGPNIECVTNDNIIVNVINKLNEPFLITWNGIKQRRTIWQDGVLGT
+                     NCPIPPGSNWTYKFQAKDQIGTYNYFPTTAMHRAAGGFGGFNIASRSVISIPYPIPVA
+                     EFTLLISDWYKAGHQALKQNLDQGKALPVPDALLINGLSKGASFTGEKGQTYKFRISN
+                     AGISTSINFRIQGHTLILVEVEGSHTMQEVYDSLDVHVGQSVTVLVKLNSAVKDYFIV
+                     ASSRFTKPILTTTALLRYAGSNTPPSLPLPIGPTYHVHWSMKQARTIRLNLTANAARP
+                     NPQGSFHYGTINVVKRFVFANTAEKINGKLRYAVNGISYVDPSTPLQLADWYNIPGVF
+                     SLNTMKTTPVNTPAVLGTSVVGTELHDFVEIVFQNNENTIQSWHLSGTSFYVVGYGDN
+                     VWNPSMRKRYNLLDAVSRHTVQVYPTAWTAIYVSLDNKGMWNLRSAIWPRRYLGQQLY
+                     VRVWNNERSLFTESDPPPNTLFCGLAKRP"
+ORIGIN      
+        1 atgaggcagg ccagcatcct gtatttttgt gttggaatac tggctttcct gagtgataca
+       61 tgggtgcaag cagaagatcc atatagatat tacacatgga cagtaacata tggaacacgc
+      121 actgttcttg atatacctca gacggttatt cttatcaatg gacaatttcc tggcccaaat
+      181 attgaatgtg tgactaacga caacataatt gtaaatgtta ttaataagtt gaatgaacct
+      241 ttcctcataa catggaatgg aatcaagcaa agaaggacta tatggcaaga tggagtgcta
+      301 gggaccaatt gtccaatccc tccaggctcc aactggacct acaaattcca agcaaaagat
+      361 cagattggaa cttataacta cttccctaca actgcaatgc atagagctgc tggaggattc
+      421 ggaggtttca acattgcttc acggtctgtg atatcaattc cataccctat tcctgttgca
+      481 gaatttaccc ttctcattag tgattggtac aaggcaggac atcaggcatt gaagcaaaac
+      541 ttggaccagg gcaaagctct tcctgttcct gatgctcttc ttataaatgg gctttctaaa
+      601 ggtgcaagct tcactggtga aaaagggcaa acttacaagt tcaggatttc aaatgcgggg
+      661 atttcaactt caatcaactt cagaattcag ggccacacac tgattcttgt tgaagttgaa
+      721 ggatcccata ctatgcaaga ggtgtacgac tcgcttgatg ttcacgttgg tcaatcagta
+      781 acagttttgg ttaaattaaa tagtgcagtc aaggactatt tcatagttgc ctcttctcgt
+      841 ttcactaaac ctattctcac taccactgcc cttcttcgct atgcgggctc taacacccca
+      901 ccctctctgc cattgcctat tggcccaact tatcatgttc actggtctat gaagcaagcc
+      961 aggaccatca ggttgaattt gacagcaaat gcagccaggc caaatcctca agggtcattc
+     1021 cattatggga ctataaacgt tgtgaagagg tttgtttttg ccaatacagc ggagaagata
+     1081 aatggcaagc tgcgttatgc tgttaacggg atatcttatg tcgatccttc caccccattg
+     1141 caacttgctg actggtataa catccccggt gtcttttcct tgaatacgat gaagactaca
+     1201 cctgtcaata cccctgcagt tctcggcact tccgtggttg gaactgaact tcatgacttt
+     1261 gtggaaattg tcttccaaaa caacgagaac acgatccagt cctggcatct atccggaacc
+     1321 agtttctacg ttgttggata cggcgataat gtgtggaacc ccagcatgag gaaacgctac
+     1381 aatttacttg atgctgtctc tagacacact gttcaggtat atcccactgc ttggaccgca
+     1441 atatatgtgt cattggacaa caagggtatg tggaacttga ggtcagcaat ctggccgcgg
+     1501 cgatatctag gccaacagtt gtacgtcagg gtttggaaca acgaacgcag cctattcaca
+     1561 gagagtgatc cccctccaaa tacattgttc tgtggcttgg ctaaacgacc atag
+//
+
+LOCUS       XM_002315669            1652 bp    mRNA    linear   PLN 31-DEC-2013
+DEFINITION  Populus trichocarpa phosphate transporter 2 family protein
+            (POPTR_0010s08270g) mRNA, complete cds.
+ACCESSION   XM_002315669
+VERSION     XM_002315669.1
+KEYWORDS    RefSeq.
+SOURCE      Populus trichocarpa (Populus balsamifera subsp. trichocarpa)
+  ORGANISM  Populus trichocarpa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Malpighiales; Salicaceae; Saliceae;
+            Populus.
+REFERENCE   1  (bases 1 to 1652)
+  AUTHORS   Tuskan,G.A., Difazio,S., Jansson,S., Bohlmann,J., Grigoriev,I.,
+            Hellsten,U., Putnam,N., Ralph,S., Rombauts,S., Salamov,A.,
+            Schein,J., Sterck,L., Aerts,A., Bhalerao,R.R., Bhalerao,R.P.,
+            Blaudez,D., Boerjan,W., Brun,A., Brunner,A., Busov,V., Campbell,M.,
+            Carlson,J., Chalot,M., Chapman,J., Chen,G.L., Cooper,D.,
+            Coutinho,P.M., Couturier,J., Covert,S., Cronk,Q., Cunningham,R.,
+            Davis,J., Degroeve,S., Dejardin,A., Depamphilis,C., Detter,J.,
+            Dirks,B., Dubchak,I., Duplessis,S., Ehlting,J., Ellis,B.,
+            Gendler,K., Goodstein,D., Gribskov,M., Grimwood,J., Groover,A.,
+            Gunter,L., Hamberger,B., Heinze,B., Helariutta,Y., Henrissat,B.,
+            Holligan,D., Holt,R., Huang,W., Islam-Faridi,N., Jones,S.,
+            Jones-Rhoades,M., Jorgensen,R., Joshi,C., Kangasjarvi,J.,
+            Karlsson,J., Kelleher,C., Kirkpatrick,R., Kirst,M., Kohler,A.,
+            Kalluri,U., Larimer,F., Leebens-Mack,J., Leple,J.C., Locascio,P.,
+            Lou,Y., Lucas,S., Martin,F., Montanini,B., Napoli,C., Nelson,D.R.,
+            Nelson,C., Nieminen,K., Nilsson,O., Pereda,V., Peter,G.,
+            Philippe,R., Pilate,G., Poliakov,A., Razumovskaya,J.,
+            Richardson,P., Rinaldi,C., Ritland,K., Rouze,P., Ryaboy,D.,
+            Schmutz,J., Schrader,J., Segerman,B., Shin,H., Siddiqui,A.,
+            Sterky,F., Terry,A., Tsai,C.J., Uberbacher,E., Unneberg,P.,
+            Vahala,J., Wall,K., Wessler,S., Yang,G., Yin,T., Douglas,C.,
+            Marra,M., Sandberg,G., Van de Peer,Y. and Rokhsar,D.
+  TITLE     The genome of black cottonwood, Populus trichocarpa (Torr. & Gray)
+  JOURNAL   Science 313 (5793), 1596-1604 (2006)
+   PUBMED   16973872
+REFERENCE   2  (bases 1 to 1652)
+  AUTHORS   Shu,S., Lucas,S., Jenkins,J., Grimwood,J., Muchero,w., Hayes,R.,
+            Goodstein,D., Rokhsar,D., Schmutz,J. and Tuskan,G.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-SEP-2012) US DOE Joint Genome Institute, Mitchell
+            Drive B100, Walnut Creek, CA 94598-1698, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NC_008476).
+            COMPLETENESS: incomplete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..1652
+                     /organism="Populus trichocarpa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3694"
+                     /linkage_group="LGX"
+     gene            1..>1652
+                     /locus_tag="POPTR_0010s08270g"
+                     /old_locus_tag="POPTRDRAFT_658370"
+                     /db_xref="GeneID:7492413"
+     CDS             42..1652
+                     /locus_tag="POPTR_0010s08270g"
+                     /old_locus_tag="POPTRDRAFT_658370"
+                     /note="encoded by transcript POPTR_0010s082701"
+                     /codon_start=1
+                     /product="phosphate transporter 2 family protein"
+                     /protein_id="XP_002315705.1"
+                     /db_xref="Phytozome:POPTR_0010s08270.1.p"
+                     /db_xref="GeneID:7492413"
+                     /translation="MAREQLVVLNALDVAKTQWYHFTAIVIAGMGFFTDAYDLFCISL
+                     VTKLLGRIYYTKPGAPKPGTLPPNVAAAVNGVALCGTLAGQLFFGWLGDKMGRKKVYG
+                     ITLVLMVVCSLASGLSFGSSANGVMTTLCFFRFWLGFGIGGDYPLSATIMSEYANKKT
+                     RGAFIAAVFAMQGFGILAGGIVALIVSAAFDHAFKTPTYHENPAASLAPQADYIWRII
+                     LMFGAIPAGLTFYWRMKMPETARYTALVAKNAKQAASDMSKVLNVEIEVEEEKVQRMA
+                     QEPANSFGLFSKEFAKRHGLHLLGTTSTWFLLDIAFYSQNLFQKDIFSAINWIPPAAT
+                     MNAIHEVFQIAKAQTLIALCSTVPGYWFTVALIDHLGRFFIQMMGFFFMTVFMFAIAI
+                     PYHHWTLKPNRIGFVVMYSLTFFFANFGPNATTFVVPAEIFPARLRSTCHGISAAAGK
+                     AGAIIGAFGFLYAAQNTDPKKTDAGYPPGIGVKWSLIVLGVINFIGMLFTLLVPESRG
+                     KSLEELSGENADENDGEKQAASPRTAPV"
+ORIGIN      
+        1 tgcaggaaat ttattatact gctaagcggg aaggattagg catggcaagg gaacaattgg
+       61 tcgtccttaa tgcactcgat gttgcaaaga ctcaatggta ccatttcaca gcaatcgtga
+      121 ttgccggcat gggatttttc acagatgcct atgatctttt ctgcatctcc ctagttacca
+      181 agttgcttgg ccgcatatac tacaccaagc caggtgcacc aaagccaggc acattacctc
+      241 ctaatgtagc agcagctgtt aatggtgtcg ccctttgtgg cactttagct ggtcagctat
+      301 tctttggttg gcttggtgac aaaatgggac gcaagaaagt ctatgggata actctggttc
+      361 tcatggttgt ttgctctctt gcatctggtt tatcctttgg aagctctgct aacggagtca
+      421 tgaccactct ttgtttcttt aggttctggc ttggttttgg cattggtggc gattatcctt
+      481 tgtcagccac tatcatgtct gaatatgcaa acaagaagac tcgtggagca tttattgcag
+      541 cagtgtttgc aatgcaagga tttggcattt tggctggtgg gattgtggct cttattgtgt
+      601 cagctgcatt tgatcatgca ttcaagaccc caacatacca tgagaatccg gcagcctcac
+      661 ttgctcctca agctgactat atttggcgta taatcttgat gtttggtgcc atccctgctg
+      721 ggcttacatt ctattggcgt atgaaaatgc ctgaaaccgc acgttacact gcactcgttg
+      781 ccaaaaacgc aaaacaagca gcgtcagata tgtctaaggt gttgaacgtg gaaattgaag
+      841 tagaggaaga gaaagtacag aggatggccc aagaaccggc caattccttt ggcttgttct
+      901 cgaaggaatt tgccaagcga catggtcttc atttgctagg aaccacttcc acatggttct
+      961 tgttggacat tgcattctac agccaaaatc ttttccagaa ggatatcttc tctgcaatca
+     1021 attggattcc tccagcagca accatgaatg cgattcacga ggtttttcaa attgcaaagg
+     1081 ctcaaactct tatagcactc tgcagtaccg tgccgggata ttggtttaca gtggcactca
+     1141 ttgaccattt ggggaggttc tttatccaaa tgatgggttt cttcttcatg acagttttta
+     1201 tgtttgccat tgctatccct taccatcact ggaccttaaa gcctaataga attgggtttg
+     1261 tagtcatgta ctcgttgacc tttttcttcg ccaattttgg acccaacgcc accacatttg
+     1321 ttgtcccagc agagattttc cctgcaaggc taagatcaac ttgtcacggt atatcagcag
+     1381 cagcaggaaa ggcaggtgct ataataggtg cattcggttt cctttatgct gcacaaaaca
+     1441 cagacccgaa gaagactgac gcaggttacc ctcctggtat tggagtcaaa tggtctctta
+     1501 ttgtgctcgg tgttattaac ttcattggaa tgttatttac tctattggtt cccgaatcaa
+     1561 ggggtaaatc acttgaagag ttgtcagggg agaacgctga tgaaaatgat ggggagaagc
+     1621 aggctgcttc acctaggacg gctccagtgt ga
+//
+
+LOCUS       XM_002299258             710 bp    mRNA    linear   PLN 31-DEC-2013
+DEFINITION  Populus trichocarpa hypothetical protein (POPTR_0001s14070g) mRNA,
+            complete cds.
+ACCESSION   XM_002299258
+VERSION     XM_002299258.2
+KEYWORDS    RefSeq.
+SOURCE      Populus trichocarpa (Populus balsamifera subsp. trichocarpa)
+  ORGANISM  Populus trichocarpa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Malpighiales; Salicaceae; Saliceae;
+            Populus.
+REFERENCE   1  (bases 1 to 710)
+  AUTHORS   Tuskan,G.A., Difazio,S., Jansson,S., Bohlmann,J., Grigoriev,I.,
+            Hellsten,U., Putnam,N., Ralph,S., Rombauts,S., Salamov,A.,
+            Schein,J., Sterck,L., Aerts,A., Bhalerao,R.R., Bhalerao,R.P.,
+            Blaudez,D., Boerjan,W., Brun,A., Brunner,A., Busov,V., Campbell,M.,
+            Carlson,J., Chalot,M., Chapman,J., Chen,G.L., Cooper,D.,
+            Coutinho,P.M., Couturier,J., Covert,S., Cronk,Q., Cunningham,R.,
+            Davis,J., Degroeve,S., Dejardin,A., Depamphilis,C., Detter,J.,
+            Dirks,B., Dubchak,I., Duplessis,S., Ehlting,J., Ellis,B.,
+            Gendler,K., Goodstein,D., Gribskov,M., Grimwood,J., Groover,A.,
+            Gunter,L., Hamberger,B., Heinze,B., Helariutta,Y., Henrissat,B.,
+            Holligan,D., Holt,R., Huang,W., Islam-Faridi,N., Jones,S.,
+            Jones-Rhoades,M., Jorgensen,R., Joshi,C., Kangasjarvi,J.,
+            Karlsson,J., Kelleher,C., Kirkpatrick,R., Kirst,M., Kohler,A.,
+            Kalluri,U., Larimer,F., Leebens-Mack,J., Leple,J.C., Locascio,P.,
+            Lou,Y., Lucas,S., Martin,F., Montanini,B., Napoli,C., Nelson,D.R.,
+            Nelson,C., Nieminen,K., Nilsson,O., Pereda,V., Peter,G.,
+            Philippe,R., Pilate,G., Poliakov,A., Razumovskaya,J.,
+            Richardson,P., Rinaldi,C., Ritland,K., Rouze,P., Ryaboy,D.,
+            Schmutz,J., Schrader,J., Segerman,B., Shin,H., Siddiqui,A.,
+            Sterky,F., Terry,A., Tsai,C.J., Uberbacher,E., Unneberg,P.,
+            Vahala,J., Wall,K., Wessler,S., Yang,G., Yin,T., Douglas,C.,
+            Marra,M., Sandberg,G., Van de Peer,Y. and Rokhsar,D.
+  TITLE     The genome of black cottonwood, Populus trichocarpa (Torr. & Gray)
+  JOURNAL   Science 313 (5793), 1596-1604 (2006)
+   PUBMED   16973872
+REFERENCE   2  (bases 1 to 710)
+  AUTHORS   Shu,S., Lucas,S., Jenkins,J., Grimwood,J., Muchero,w., Hayes,R.,
+            Goodstein,D., Rokhsar,D., Schmutz,J. and Tuskan,G.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-SEP-2012) US DOE Joint Genome Institute, Mitchell
+            Drive B100, Walnut Creek, CA 94598-1698, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NC_008467).
+            On Dec 16, 2013 this sequence version replaced gi:224057677.
+            COMPLETENESS: incomplete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..710
+                     /organism="Populus trichocarpa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3694"
+                     /linkage_group="LGI"
+     gene            1..>710
+                     /locus_tag="POPTR_0001s14070g"
+                     /old_locus_tag="POPTRDRAFT_179037"
+                     /db_xref="GeneID:7460533"
+     CDS             78..710
+                     /locus_tag="POPTR_0001s14070g"
+                     /old_locus_tag="POPTRDRAFT_179037"
+                     /note="encoded by transcript POPTR_0001s140701"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_002299294.2"
+                     /db_xref="Phytozome:POPTR_0001s14070.1.p"
+                     /db_xref="GeneID:7460533"
+                     /translation="MHDILGGSNPTARPITGLLGNIYSGQVPFARPIGFVPPNGVAIP
+                     NANGVIPTVNGINGIPLGTGLAGTTFAGQPNGQNLNGNPQTQLGPDGLGLGFGTITVI
+                     DDILTSSPELGSQSVGKAQGVYVASSADGSTQMMAFTAMFEGGEYGDSLNFYGMYKIG
+                     STMSRLSVTGGTGKFKNARGFAEVRSLIPSGQHFIDGAETLLRFTVHLSY"
+ORIGIN      
+        1 cacaatatcc agcagcaatc tgcgctgcgg ttgaccctgt agcagcaacc ggagaagaac
+       61 caatccttga gttatatatg catgacattc tcggtggcag caacccgaca gctaggccaa
+      121 taaccggctt gctgggtaac atatacagtg gccaagtgcc ctttgcaagg ccaatagggt
+      181 ttgtcccgcc aaacggtgta gccatcccaa atgccaatgg cgtcattccg actgtaaatg
+      241 gcataaacgg tatcccactg ggaactggtt tagctggcac tacttttgca ggacaaccaa
+      301 atggtcagaa cctcaatggc aatcctcaaa cccaattagg acctgatggg ttgggacttg
+      361 gctttggaac gataactgtt atagatgata tactaacctc tagtccggaa ctggggtcac
+      421 agtctgtagg caaagctcaa ggtgtatatg tggcaagttc agcagatggg agcactcaga
+      481 tgatggcatt tacagctatg tttgaaggag gtgagtacgg tgatagcctc aacttctatg
+      541 gcatgtacaa gatcggaagc accatgtcac gtctgtcagt taccggtggc actggtaaat
+      601 tcaagaatgc taggggtttt gcagaggtcc gatcgcttat accttctggt caacatttca
+      661 tagatggtgc tgagacattg ctaaggttca cagtccatct aagctactaa
+//
+
+LOCUS       XM_002299553            1671 bp    mRNA    linear   PLN 31-DEC-2013
+DEFINITION  Populus trichocarpa hypothetical protein (POPTR_0001s16890g) mRNA,
+            complete cds.
+ACCESSION   XM_002299553
+VERSION     XM_002299553.2
+KEYWORDS    RefSeq.
+SOURCE      Populus trichocarpa (Populus balsamifera subsp. trichocarpa)
+  ORGANISM  Populus trichocarpa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Malpighiales; Salicaceae; Saliceae;
+            Populus.
+REFERENCE   1  (bases 1 to 1671)
+  AUTHORS   Tuskan,G.A., Difazio,S., Jansson,S., Bohlmann,J., Grigoriev,I.,
+            Hellsten,U., Putnam,N., Ralph,S., Rombauts,S., Salamov,A.,
+            Schein,J., Sterck,L., Aerts,A., Bhalerao,R.R., Bhalerao,R.P.,
+            Blaudez,D., Boerjan,W., Brun,A., Brunner,A., Busov,V., Campbell,M.,
+            Carlson,J., Chalot,M., Chapman,J., Chen,G.L., Cooper,D.,
+            Coutinho,P.M., Couturier,J., Covert,S., Cronk,Q., Cunningham,R.,
+            Davis,J., Degroeve,S., Dejardin,A., Depamphilis,C., Detter,J.,
+            Dirks,B., Dubchak,I., Duplessis,S., Ehlting,J., Ellis,B.,
+            Gendler,K., Goodstein,D., Gribskov,M., Grimwood,J., Groover,A.,
+            Gunter,L., Hamberger,B., Heinze,B., Helariutta,Y., Henrissat,B.,
+            Holligan,D., Holt,R., Huang,W., Islam-Faridi,N., Jones,S.,
+            Jones-Rhoades,M., Jorgensen,R., Joshi,C., Kangasjarvi,J.,
+            Karlsson,J., Kelleher,C., Kirkpatrick,R., Kirst,M., Kohler,A.,
+            Kalluri,U., Larimer,F., Leebens-Mack,J., Leple,J.C., Locascio,P.,
+            Lou,Y., Lucas,S., Martin,F., Montanini,B., Napoli,C., Nelson,D.R.,
+            Nelson,C., Nieminen,K., Nilsson,O., Pereda,V., Peter,G.,
+            Philippe,R., Pilate,G., Poliakov,A., Razumovskaya,J.,
+            Richardson,P., Rinaldi,C., Ritland,K., Rouze,P., Ryaboy,D.,
+            Schmutz,J., Schrader,J., Segerman,B., Shin,H., Siddiqui,A.,
+            Sterky,F., Terry,A., Tsai,C.J., Uberbacher,E., Unneberg,P.,
+            Vahala,J., Wall,K., Wessler,S., Yang,G., Yin,T., Douglas,C.,
+            Marra,M., Sandberg,G., Van de Peer,Y. and Rokhsar,D.
+  TITLE     The genome of black cottonwood, Populus trichocarpa (Torr. & Gray)
+  JOURNAL   Science 313 (5793), 1596-1604 (2006)
+   PUBMED   16973872
+REFERENCE   2  (bases 1 to 1671)
+  AUTHORS   Shu,S., Lucas,S., Jenkins,J., Grimwood,J., Muchero,w., Hayes,R.,
+            Goodstein,D., Rokhsar,D., Schmutz,J. and Tuskan,G.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-SEP-2012) US DOE Joint Genome Institute, Mitchell
+            Drive B100, Walnut Creek, CA 94598-1698, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NC_008467).
+            On Dec 16, 2013 this sequence version replaced gi:224058658.
+            COMPLETENESS: incomplete on both ends.
+FEATURES             Location/Qualifiers
+     source          1..1671
+                     /organism="Populus trichocarpa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3694"
+                     /linkage_group="LGI"
+     gene            <1..>1671
+                     /locus_tag="POPTR_0001s16890g"
+                     /old_locus_tag="POPTRDRAFT_548575"
+                     /db_xref="GeneID:7478102"
+     CDS             1..1671
+                     /locus_tag="POPTR_0001s16890g"
+                     /old_locus_tag="POPTRDRAFT_548575"
+                     /note="encoded by transcript POPTR_0001s168901"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_002299589.1"
+                     /db_xref="Phytozome:POPTR_0001s16890.1.p"
+                     /db_xref="GeneID:7478102"
+                     /translation="MTIEESEPSHTSDHVLDWLEDSVSFVPSFFDDPYSTADTNPYQW
+                     WDQAEEFYQDLVNTNASLSSSITTSTTTNINTTSLVPPITPTLSNHPQSTTSNKKRKD
+                     PEDPVTKTSQNHHQRKNPNNWINKKQQDGEAVVVVKKSNGNKKTTNKGTGINGNNGNN
+                     KEGRWAEQLLNPCAAAIPIGNMSRVQHLLYVLHELASLTGDANHRLAAYGLRALTHHL
+                     SSSSTLSSASTGTITFASTEPKFFQKSLLKFYEVSPWFAFPHNIANASILQVLAQEQD
+                     PRRNLHVLDIGVSHGVQWPTLLEALTRRPGGPPPLVRITVITAASENDQTTETPFSIG
+                     PPGDNFSSRLLGFAKSMNINLQIKRLDNHSLQKLSGRIIDTKPDEALIVCAQFRLHHL
+                     NHNTPDERTEFLRVLRRLEPKGVILTENNMDCSCNSCGDFATGFSRRVEYLWRFLDST
+                     SSAFKGRESVERRMMEGEAAKALTNRGEMNEGKEKWCERMRGVGFVGELFGEDAIDGA
+                     RALLRKYDSNWEMRGEGKDGCVGLWWKGQPVSFCSLWKLDMKGSESKL"
+ORIGIN      
+        1 atgaccattg aagaatcaga gccaagccat acatcagatc acgtattgga ttggctagag
+       61 gattcagtat cgttcgtgcc atctttcttt gatgatccgt acagcacagc cgataccaat
+      121 ccctatcaat ggtgggatca agcagaagag ttttaccagg atctagtcaa caccaacgct
+      181 agtctcagca gcagcataac cacaagcacc accacaaata tcaatacaac tagcctagta
+      241 ccaccaatta ctcccacctt atctaatcac ccacaatcga ccacttcaaa caagaaacgg
+      301 aaagatcctg aagacccggt taccaaaacg tcccagaatc atcatcagag aaagaatcca
+      361 aataattgga taaacaagaa acagcaagat ggtgaagcag tggtagtagt gaaaaaatca
+      421 aatggaaata agaaaaccac caacaagggt acaggtatta acggcaataa cggtaacaac
+      481 aaggaaggga gatgggcaga acagttactc aatccttgtg cagccgctat ccctattgga
+      541 aacatgtcac gggtgcagca ccttctgtat gtactccatg agctagcctc attaactggc
+      601 gatgctaacc acaggctagc agcttatggt cttcgagcac tgactcacca cctatcatcc
+      661 tcatcaacct tgtcctcagc atctacagga accattactt ttgcttctac tgagccaaag
+      721 ttctttcaaa aatctttact caaattctac gaggtgagtc cttggtttgc cttccctcac
+      781 aacattgcta atgcatctat ccttcaagtt cttgcacagg aacaagatcc taggcgaaac
+      841 cttcatgttc ttgatattgg ggtatcccat ggtgtacagt ggcctacact tcttgaggcc
+      901 ttgactcgcc gtcctggagg acctcctcct ctagtacgca tcacagtcat cacggccgct
+      961 tctgaaaatg atcaaaccac tgagaccccg ttttcaatag gtccacctgg agacaatttt
+     1021 tcctccagac tactaggttt tgccaagtct atgaacatca atttgcaaat caaaaggctt
+     1081 gataaccact cattacaaaa acttagtgga cgaataatag acaccaaacc cgacgaagca
+     1141 ttaatagttt gtgcgcaatt cagactccat catttaaacc acaacacacc agatgaaaga
+     1201 actgagttct tgagagttct gagaaggttg gagccaaaag gcgtgatact caccgaaaac
+     1261 aatatggatt gtagctgcaa cagttgtggg gattttgcaa caggattttc aaggagagta
+     1321 gagtatttat ggaggttttt ggactcaaca agctcagctt tcaaaggccg agagagtgtc
+     1381 gaaagacgga tgatggaagg cgaggcagcg aaggccttga caaatcgtgg agagatgaat
+     1441 gaaggaaaag aaaaatggtg tgagaggatg agaggggtgg gatttgttgg cgagttgttt
+     1501 ggagaagacg ccattgatgg agctcgagca ctgttgagga agtatgatag taactgggag
+     1561 atgagagggg aagggaaaga tggctgtgtg gggttatggt ggaaagggca gcctgtttct
+     1621 ttttgttcac tatggaagtt ggatatgaaa ggaagtgagt cgaaacttta g
+//
+
+LOCUS       XM_002299857             973 bp    mRNA    linear   PLN 31-DEC-2013
+DEFINITION  Populus trichocarpa nodulin-26 family protein (POPTR_0001s24200g)
+            mRNA, complete cds.
+ACCESSION   XM_002299857
+VERSION     XM_002299857.2
+KEYWORDS    RefSeq.
+SOURCE      Populus trichocarpa (Populus balsamifera subsp. trichocarpa)
+  ORGANISM  Populus trichocarpa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Malpighiales; Salicaceae; Saliceae;
+            Populus.
+REFERENCE   1  (bases 1 to 973)
+  AUTHORS   Tuskan,G.A., Difazio,S., Jansson,S., Bohlmann,J., Grigoriev,I.,
+            Hellsten,U., Putnam,N., Ralph,S., Rombauts,S., Salamov,A.,
+            Schein,J., Sterck,L., Aerts,A., Bhalerao,R.R., Bhalerao,R.P.,
+            Blaudez,D., Boerjan,W., Brun,A., Brunner,A., Busov,V., Campbell,M.,
+            Carlson,J., Chalot,M., Chapman,J., Chen,G.L., Cooper,D.,
+            Coutinho,P.M., Couturier,J., Covert,S., Cronk,Q., Cunningham,R.,
+            Davis,J., Degroeve,S., Dejardin,A., Depamphilis,C., Detter,J.,
+            Dirks,B., Dubchak,I., Duplessis,S., Ehlting,J., Ellis,B.,
+            Gendler,K., Goodstein,D., Gribskov,M., Grimwood,J., Groover,A.,
+            Gunter,L., Hamberger,B., Heinze,B., Helariutta,Y., Henrissat,B.,
+            Holligan,D., Holt,R., Huang,W., Islam-Faridi,N., Jones,S.,
+            Jones-Rhoades,M., Jorgensen,R., Joshi,C., Kangasjarvi,J.,
+            Karlsson,J., Kelleher,C., Kirkpatrick,R., Kirst,M., Kohler,A.,
+            Kalluri,U., Larimer,F., Leebens-Mack,J., Leple,J.C., Locascio,P.,
+            Lou,Y., Lucas,S., Martin,F., Montanini,B., Napoli,C., Nelson,D.R.,
+            Nelson,C., Nieminen,K., Nilsson,O., Pereda,V., Peter,G.,
+            Philippe,R., Pilate,G., Poliakov,A., Razumovskaya,J.,
+            Richardson,P., Rinaldi,C., Ritland,K., Rouze,P., Ryaboy,D.,
+            Schmutz,J., Schrader,J., Segerman,B., Shin,H., Siddiqui,A.,
+            Sterky,F., Terry,A., Tsai,C.J., Uberbacher,E., Unneberg,P.,
+            Vahala,J., Wall,K., Wessler,S., Yang,G., Yin,T., Douglas,C.,
+            Marra,M., Sandberg,G., Van de Peer,Y. and Rokhsar,D.
+  TITLE     The genome of black cottonwood, Populus trichocarpa (Torr. & Gray)
+  JOURNAL   Science 313 (5793), 1596-1604 (2006)
+   PUBMED   16973872
+REFERENCE   2  (bases 1 to 973)
+  AUTHORS   Shu,S., Lucas,S., Jenkins,J., Grimwood,J., Muchero,w., Hayes,R.,
+            Goodstein,D., Rokhsar,D., Schmutz,J. and Tuskan,G.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-SEP-2012) US DOE Joint Genome Institute, Mitchell
+            Drive B100, Walnut Creek, CA 94598-1698, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NC_008467).
+            On Dec 16, 2013 this sequence version replaced gi:224059531.
+FEATURES             Location/Qualifiers
+     source          1..973
+                     /organism="Populus trichocarpa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3694"
+                     /linkage_group="LGI"
+     gene            1..973
+                     /locus_tag="POPTR_0001s24200g"
+                     /old_locus_tag="POPTRDRAFT_549212"
+                     /db_xref="GeneID:7485726"
+     CDS             15..773
+                     /locus_tag="POPTR_0001s24200g"
+                     /old_locus_tag="POPTRDRAFT_549212"
+                     /note="encoded by transcript POPTR_0001s242001"
+                     /codon_start=1
+                     /product="nodulin-26 family protein"
+                     /protein_id="XP_002299893.1"
+                     /db_xref="Phytozome:POPTR_0001s24200.1.p"
+                     /db_xref="GeneID:7485726"
+                     /translation="MPITSIAFGSPAEAGQPDALRAALAEFISMLIFVFAGEGSGMAF
+                     NKLTDNGSSTPAGLVAASLAHAFALFVAVSVGANISGGHVNPAVTFGAFIGGHITFIR
+                     SLLYWVAQCLGSVVACLLLKLATGGQETSAFALSSGVGAWNAVVFEIVMTFGLVYTVY
+                     ATAVDPKKGDIGIIAPIAIGFIVGANILAGGAFDGASMNPAVSFGPAVVSWTWDSHWV
+                     YWLGPFVGSAIAAIVYEVIFINPSTHEQLPSTDF"
+ORIGIN      
+        1 attaaattac tcaaatgcca atcactagca ttgcattcgg atctccagca gaggctgggc
+       61 aacctgatgc actcagggca gctctagctg agttcatttc tatgctcatt tttgtttttg
+      121 caggggaagg ctctggcatg gctttcaata agcttaccga taatggctcc tcaaccccgg
+      181 ccgggctagt agctgcatcg ttggctcacg cctttgcact ttttgttgcg gtgtcagtcg
+      241 gtgctaacat ttctggcggg catgtaaatc ctgccgttac attcggtgcc ttcattggtg
+      301 gccatataac attcattaga agtcttctgt actgggttgc ccagtgcctg ggatctgtag
+      361 ttgcttgctt gcttcttaag ttggcaactg gtggacagga aacatcggcc tttgctctat
+      421 catctggagt tggtgcatgg aatgcagttg ttttcgagat tgtgatgacc ttcggtttgg
+      481 tttacactgt gtatgcaaca gctgttgacc caaagaaggg tgacattggg ataattgcac
+      541 ccattgctat tggtttcatt gtgggtgcta acatcttagc tggtggtgct tttgatggcg
+      601 catccatgaa cccggcagtc tcctttgggc cagctgttgt aagttggaca tgggacagcc
+      661 actgggtcta ctggcttggt ccattcgttg ggtctgccat tgctgccatt gtctacgagg
+      721 tcattttcat taacccaagc acacacgaac agctcccctc aacagatttt taagaagtcg
+      781 aaaactcaat actttggatg aaataaggat gaaggctttt gaagacacgt ctgtggtggt
+      841 gttattggcg ttgtttttac ccggtttctg ttaatacatg attcctgtaa tctttgtctt
+      901 gtttctcttc aatcatttaa gaattgccca cttgtgccca ctgcacaagg attgggcgaa
+      961 tgctttcact ttg
+//
+
+LOCUS       XM_002300212            2046 bp    mRNA    linear   PLN 31-DEC-2013
+DEFINITION  Populus trichocarpa auxin-responsive GH3 family protein
+            (POPTR_0001s30560g) mRNA, complete cds.
+ACCESSION   XM_002300212
+VERSION     XM_002300212.2
+KEYWORDS    RefSeq.
+SOURCE      Populus trichocarpa (Populus balsamifera subsp. trichocarpa)
+  ORGANISM  Populus trichocarpa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Malpighiales; Salicaceae; Saliceae;
+            Populus.
+REFERENCE   1  (bases 1 to 2046)
+  AUTHORS   Tuskan,G.A., Difazio,S., Jansson,S., Bohlmann,J., Grigoriev,I.,
+            Hellsten,U., Putnam,N., Ralph,S., Rombauts,S., Salamov,A.,
+            Schein,J., Sterck,L., Aerts,A., Bhalerao,R.R., Bhalerao,R.P.,
+            Blaudez,D., Boerjan,W., Brun,A., Brunner,A., Busov,V., Campbell,M.,
+            Carlson,J., Chalot,M., Chapman,J., Chen,G.L., Cooper,D.,
+            Coutinho,P.M., Couturier,J., Covert,S., Cronk,Q., Cunningham,R.,
+            Davis,J., Degroeve,S., Dejardin,A., Depamphilis,C., Detter,J.,
+            Dirks,B., Dubchak,I., Duplessis,S., Ehlting,J., Ellis,B.,
+            Gendler,K., Goodstein,D., Gribskov,M., Grimwood,J., Groover,A.,
+            Gunter,L., Hamberger,B., Heinze,B., Helariutta,Y., Henrissat,B.,
+            Holligan,D., Holt,R., Huang,W., Islam-Faridi,N., Jones,S.,
+            Jones-Rhoades,M., Jorgensen,R., Joshi,C., Kangasjarvi,J.,
+            Karlsson,J., Kelleher,C., Kirkpatrick,R., Kirst,M., Kohler,A.,
+            Kalluri,U., Larimer,F., Leebens-Mack,J., Leple,J.C., Locascio,P.,
+            Lou,Y., Lucas,S., Martin,F., Montanini,B., Napoli,C., Nelson,D.R.,
+            Nelson,C., Nieminen,K., Nilsson,O., Pereda,V., Peter,G.,
+            Philippe,R., Pilate,G., Poliakov,A., Razumovskaya,J.,
+            Richardson,P., Rinaldi,C., Ritland,K., Rouze,P., Ryaboy,D.,
+            Schmutz,J., Schrader,J., Segerman,B., Shin,H., Siddiqui,A.,
+            Sterky,F., Terry,A., Tsai,C.J., Uberbacher,E., Unneberg,P.,
+            Vahala,J., Wall,K., Wessler,S., Yang,G., Yin,T., Douglas,C.,
+            Marra,M., Sandberg,G., Van de Peer,Y. and Rokhsar,D.
+  TITLE     The genome of black cottonwood, Populus trichocarpa (Torr. & Gray)
+  JOURNAL   Science 313 (5793), 1596-1604 (2006)
+   PUBMED   16973872
+REFERENCE   2  (bases 1 to 2046)
+  AUTHORS   Shu,S., Lucas,S., Jenkins,J., Grimwood,J., Muchero,w., Hayes,R.,
+            Goodstein,D., Rokhsar,D., Schmutz,J. and Tuskan,G.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-SEP-2012) US DOE Joint Genome Institute, Mitchell
+            Drive B100, Walnut Creek, CA 94598-1698, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NC_008467).
+            On Dec 16, 2013 this sequence version replaced gi:224060650.
+FEATURES             Location/Qualifiers
+     source          1..2046
+                     /organism="Populus trichocarpa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3694"
+                     /linkage_group="LGI"
+     gene            1..2046
+                     /locus_tag="POPTR_0001s30560g"
+                     /old_locus_tag="POPTRDRAFT_549965"
+                     /db_xref="GeneID:7465052"
+     CDS             5..1795
+                     /locus_tag="POPTR_0001s30560g"
+                     /old_locus_tag="POPTRDRAFT_549965"
+                     /note="encoded by transcript POPTR_0001s305601"
+                     /codon_start=1
+                     /product="auxin-responsive GH3 family protein"
+                     /protein_id="XP_002300248.2"
+                     /db_xref="Phytozome:POPTR_0001s30560.1.p"
+                     /db_xref="GeneID:7465052"
+                     /translation="MAVDNALSSPLGPPACEKDAKALQFIEEMTRKTDSVQEDVLAKI
+                     LIQNAEVEYLKRFNLDGATDRETFKSKLPTIRYEDLQPEIQRIANGDRSSILSTHPIS
+                     EFLTSSGTSAGERKLMPTIKEELDRRQLLYSLLMPVMNLYVPGLDKGKGLYFLFVKSE
+                     TRTPGGLLARPVLTSYYKSDHFKTRPYDPYNVYTSPNEAILCADSFQSMYTQMLCGLL
+                     EREQVLRVGAVFASGLLRAIRFLQLHWRELADDIESGMLNKEITDPSVKDCMVKILKP
+                     NPKLAEFVRMECSKENWEGIITRIWPNTKYLDVIVTGAMAQYIPTLDYYSGGLPLACT
+                     MYASSECYFGLNLNPMCKPSEVCYTIMPNMAYFEFLPHDPNGFTHDSTPKLVDLADVE
+                     LGKEYELVITTYAGLYRYQVGDILRVTGFHNSAPQFHFVRRKNVLLSIDSDKTDEAEL
+                     QKAVENASQLLREFNTSVVEYTSYADTKTIPGHYVIYWELLVKDLANSPSDEVLNQCC
+                     LAMEECLNSVYRQGRVADYSIGPLEIRVVKNGTFEELMDYAISRGASINQYKVPRCVN
+                     FTPIMELLDSRVVSKHFSPALPYWTPERRR"
+ORIGIN      
+        1 ctatatggct gttgataatg ctctttcatc acctttgggt cctccagcgt gtgagaaaga
+       61 tgctaaagct cttcaattca ttgaggaaat gactagaaag actgactcag ttcaagagga
+      121 tgttttggcc aaaatcctga tccaaaacgc tgaggtcgag tacttaaaac ggttcaacct
+      181 tgatggtgca actgaccgtg agacttttaa gtctaaatta cccacgatca gatacgagga
+      241 tcttcagcct gaaatccaac gaattgctaa tggtgatcgc tcttccatct tatcaactca
+      301 ccccatctca gaattcctta ctagttctgg gacatctgct ggcgaaagaa agctcatgcc
+      361 aacaattaag gaagagctgg atcgtcgcca attactgtat agtttactca tgccagtaat
+      421 gaacctttac gtgcctggct tagacaaagg caaaggctta tacttcttgt tcgtgaagtc
+      481 tgaaacaaga accccaggag gtctcctggc tcgtccggtg cttacgagct attacaagag
+      541 tgaccacttc aagacacgtc catatgatcc ttacaatgtg tacaccagcc caaatgaggc
+      601 cattctttgt gcagattcat tccagagcat gtacactcag atgctctgtg gccttctaga
+      661 gcgtgaacaa gtgctcaggg tcggtgcagt ctttgcttcc ggccttctcc gtgccataag
+      721 gtttctccaa cttcattggc gggaacttgc tgatgatatc gagtcaggaa tgctaaacaa
+      781 ggaaataact gacccttccg tcaaagattg catggtaaag attctgaagc caaacccaaa
+      841 gcttgcagag tttgtcagaa tggagtgtag taaggaaaac tgggaaggga tcattacaag
+      901 aatttggcct aacaccaaat atcttgatgt gattgtcact ggagccatgg cccaatatat
+      961 ccctaccctc gactactata gtggtggttt acctttggcg tgcactatgt atgcctcatc
+     1021 agaatgttac tttgggttaa acctgaatcc aatgtgcaag ccatcagaag tttgttacac
+     1081 aatcatgcca aatatggctt acttcgagtt tttaccccac gatcctaatg ggttcactca
+     1141 tgattcaact ccaaaacttg ttgaccttgc tgatgttgag ttgggtaagg aatacgagct
+     1201 tgttatcaca acctatgccg gtttatacag gtaccaagtt ggtgacatcc ttcgagttac
+     1261 cgggttccac aactcagccc ctcaatttca tttcgtaagg aggaagaatg tattgcttag
+     1321 tattgactcg gacaaaacag atgaagctga gttacaaaag gcagttgaga acgcatcaca
+     1381 acttctacgt gaattcaaca caagtgttgt tgaatacact agctatgctg atacaaagac
+     1441 aattcctgga cactatgtga tttactggga attattggtc aaagacttag ccaactctcc
+     1501 tagtgacgaa gtactaaacc aatgttgcct tgctatggaa gaatgtttga actcagtgta
+     1561 tcgacaaggc cgagttgcag attactcaat tggaccactc gagatacgtg tggtaaaaaa
+     1621 tggtacattt gaggagctga tggattatgc aatttcaaga ggggcatcca tcaatcagta
+     1681 taaggttcca aggtgcgtca attttactcc aatcatggag ttgcttgatt caagggtggt
+     1741 ctccaagcat ttcagcccag ctttgccata ctggacaccg gaaagaagaa ggtgatttct
+     1801 ttgggcaccg accaaaatca agtctccatt ggtgtgtaga ataataatat tagagtactt
+     1861 attaatgtta gattaatcct taatgtgtgt gtgtttttca tttgaatgag gagtagcttt
+     1921 tgtgacaaaa ggttaaaggg cattttgatt aggatgtgtc agggtcaggt tttgtgtttt
+     1981 ggttcagcta acctgtggaa atgatctgcc cttgactgag atgtttgtct agtgcatgaa
+     2041 atgttt
+//
+
+LOCUS       XM_002300149             915 bp    mRNA    linear   PLN 31-DEC-2013
+DEFINITION  Populus trichocarpa hypothetical protein (POPTR_0001s31970g) mRNA,
+            complete cds.
+ACCESSION   XM_002300149
+VERSION     XM_002300149.2
+KEYWORDS    RefSeq.
+SOURCE      Populus trichocarpa (Populus balsamifera subsp. trichocarpa)
+  ORGANISM  Populus trichocarpa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Malpighiales; Salicaceae; Saliceae;
+            Populus.
+REFERENCE   1  (bases 1 to 915)
+  AUTHORS   Tuskan,G.A., Difazio,S., Jansson,S., Bohlmann,J., Grigoriev,I.,
+            Hellsten,U., Putnam,N., Ralph,S., Rombauts,S., Salamov,A.,
+            Schein,J., Sterck,L., Aerts,A., Bhalerao,R.R., Bhalerao,R.P.,
+            Blaudez,D., Boerjan,W., Brun,A., Brunner,A., Busov,V., Campbell,M.,
+            Carlson,J., Chalot,M., Chapman,J., Chen,G.L., Cooper,D.,
+            Coutinho,P.M., Couturier,J., Covert,S., Cronk,Q., Cunningham,R.,
+            Davis,J., Degroeve,S., Dejardin,A., Depamphilis,C., Detter,J.,
+            Dirks,B., Dubchak,I., Duplessis,S., Ehlting,J., Ellis,B.,
+            Gendler,K., Goodstein,D., Gribskov,M., Grimwood,J., Groover,A.,
+            Gunter,L., Hamberger,B., Heinze,B., Helariutta,Y., Henrissat,B.,
+            Holligan,D., Holt,R., Huang,W., Islam-Faridi,N., Jones,S.,
+            Jones-Rhoades,M., Jorgensen,R., Joshi,C., Kangasjarvi,J.,
+            Karlsson,J., Kelleher,C., Kirkpatrick,R., Kirst,M., Kohler,A.,
+            Kalluri,U., Larimer,F., Leebens-Mack,J., Leple,J.C., Locascio,P.,
+            Lou,Y., Lucas,S., Martin,F., Montanini,B., Napoli,C., Nelson,D.R.,
+            Nelson,C., Nieminen,K., Nilsson,O., Pereda,V., Peter,G.,
+            Philippe,R., Pilate,G., Poliakov,A., Razumovskaya,J.,
+            Richardson,P., Rinaldi,C., Ritland,K., Rouze,P., Ryaboy,D.,
+            Schmutz,J., Schrader,J., Segerman,B., Shin,H., Siddiqui,A.,
+            Sterky,F., Terry,A., Tsai,C.J., Uberbacher,E., Unneberg,P.,
+            Vahala,J., Wall,K., Wessler,S., Yang,G., Yin,T., Douglas,C.,
+            Marra,M., Sandberg,G., Van de Peer,Y. and Rokhsar,D.
+  TITLE     The genome of black cottonwood, Populus trichocarpa (Torr. & Gray)
+  JOURNAL   Science 313 (5793), 1596-1604 (2006)
+   PUBMED   16973872
+REFERENCE   2  (bases 1 to 915)
+  AUTHORS   Shu,S., Lucas,S., Jenkins,J., Grimwood,J., Muchero,w., Hayes,R.,
+            Goodstein,D., Rokhsar,D., Schmutz,J. and Tuskan,G.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-SEP-2012) US DOE Joint Genome Institute, Mitchell
+            Drive B100, Walnut Creek, CA 94598-1698, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NC_008467).
+            On Dec 16, 2013 this sequence version replaced gi:224060408.
+            COMPLETENESS: incomplete on both ends.
+FEATURES             Location/Qualifiers
+     source          1..915
+                     /organism="Populus trichocarpa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3694"
+                     /linkage_group="LGI"
+     gene            <1..>915
+                     /locus_tag="POPTR_0001s31970g"
+                     /old_locus_tag="POPTRDRAFT_174968"
+                     /db_xref="GeneID:7461680"
+     CDS             1..915
+                     /locus_tag="POPTR_0001s31970g"
+                     /old_locus_tag="POPTRDRAFT_174968"
+                     /note="encoded by transcript POPTR_0001s319701"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_002300185.2"
+                     /db_xref="Phytozome:POPTR_0001s31970.1.p"
+                     /db_xref="GeneID:7461680"
+                     /translation="MLSLRLRSSVCKTLPPQKFFQFFSHQKTSDDQTHGFPPLPATKT
+                     NSGLKEEEKGGIEQAMQLPEGLRRESMPRHVAVIMDGNSRWARQRGMLTPSGHEAGVR
+                     SLKEFIRLCLQWGIKVVTVFAFSIDNWTRPKEEVDIVMTMIENLLKSGLDDFIREGTR
+                     VSIIGDTSRVPKSLQRTICDIEEMTRENSKFHFIMAISYSGTYDVVQACKSVAQKVKD
+                     GVIQVEDINESAVQQELETKCCEFPCPDLLIRTSGELRISNFLLWQSAYSELFFAKAL
+                     WPDFGKADFVEALTSYQHRQRRYGGRYS"
+ORIGIN      
+        1 atgctttcgt tgcgcctccg ctcctcagtt tgcaagaccc ttcctcctca aaaattcttt
+       61 caattcttta gccatcaaaa gaccagtgat gaccaaacac acggctttcc tccacttccc
+      121 gcaacgaaaa cgaactccgg tctcaaagaa gaggagaaag gaggaataga gcaagctatg
+      181 cagttgccgg agggattacg cagagagtcc atgccccggc atgttgctgt aatcatggac
+      241 ggaaattcca ggtgggctcg gcaacgaggg atgctcacac cttctggtca tgaagctggc
+      301 gtgaggtcat tgaaagagtt tataaggctt tgccttcaat ggggtattaa ggttgtcacc
+      361 gtttttgcat tttctataga taattggact aggcctaagg aggaggttga tatcgtcatg
+      421 actatgattg agaatctgtt aaagtctggt ttggatgatt ttatcaggga aggtactcga
+      481 gtctctataa taggtgatac ctcaagggtc ccaaagtctt tgcagagaac gatatgtgac
+      541 atagaagaga tgacaagaga gaactcaaaa ttccatttca tcatggctat cagctatagc
+      601 gggacatatg atgttgtaca agcatgcaaa agtgttgctc aaaaggtaaa ggatggtgtt
+      661 attcaagtgg aggacatcaa tgaaagtgca gttcaacagg aattagaaac caagtgttgc
+      721 gagtttcctt gtcctgattt gttaataaga acaagtggtg aacttagaat tagcaatttt
+      781 ttgctgtggc agtcagccta tagtgagctt ttcttcgcaa aagcactatg gcctgatttt
+      841 ggaaaggctg attttgtaga ggccttaact tcatatcagc ataggcagag acgttatggt
+      901 ggtcgatatt cataa
+//
+
+LOCUS       XM_002299009            1821 bp    mRNA    linear   PLN 31-DEC-2013
+DEFINITION  Populus trichocarpa hypothetical protein (POPTR_0001s46910g) mRNA,
+            complete cds.
+ACCESSION   XM_002299009
+VERSION     XM_002299009.2
+KEYWORDS    RefSeq.
+SOURCE      Populus trichocarpa (Populus balsamifera subsp. trichocarpa)
+  ORGANISM  Populus trichocarpa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Malpighiales; Salicaceae; Saliceae;
+            Populus.
+REFERENCE   1  (bases 1 to 1821)
+  AUTHORS   Tuskan,G.A., Difazio,S., Jansson,S., Bohlmann,J., Grigoriev,I.,
+            Hellsten,U., Putnam,N., Ralph,S., Rombauts,S., Salamov,A.,
+            Schein,J., Sterck,L., Aerts,A., Bhalerao,R.R., Bhalerao,R.P.,
+            Blaudez,D., Boerjan,W., Brun,A., Brunner,A., Busov,V., Campbell,M.,
+            Carlson,J., Chalot,M., Chapman,J., Chen,G.L., Cooper,D.,
+            Coutinho,P.M., Couturier,J., Covert,S., Cronk,Q., Cunningham,R.,
+            Davis,J., Degroeve,S., Dejardin,A., Depamphilis,C., Detter,J.,
+            Dirks,B., Dubchak,I., Duplessis,S., Ehlting,J., Ellis,B.,
+            Gendler,K., Goodstein,D., Gribskov,M., Grimwood,J., Groover,A.,
+            Gunter,L., Hamberger,B., Heinze,B., Helariutta,Y., Henrissat,B.,
+            Holligan,D., Holt,R., Huang,W., Islam-Faridi,N., Jones,S.,
+            Jones-Rhoades,M., Jorgensen,R., Joshi,C., Kangasjarvi,J.,
+            Karlsson,J., Kelleher,C., Kirkpatrick,R., Kirst,M., Kohler,A.,
+            Kalluri,U., Larimer,F., Leebens-Mack,J., Leple,J.C., Locascio,P.,
+            Lou,Y., Lucas,S., Martin,F., Montanini,B., Napoli,C., Nelson,D.R.,
+            Nelson,C., Nieminen,K., Nilsson,O., Pereda,V., Peter,G.,
+            Philippe,R., Pilate,G., Poliakov,A., Razumovskaya,J.,
+            Richardson,P., Rinaldi,C., Ritland,K., Rouze,P., Ryaboy,D.,
+            Schmutz,J., Schrader,J., Segerman,B., Shin,H., Siddiqui,A.,
+            Sterky,F., Terry,A., Tsai,C.J., Uberbacher,E., Unneberg,P.,
+            Vahala,J., Wall,K., Wessler,S., Yang,G., Yin,T., Douglas,C.,
+            Marra,M., Sandberg,G., Van de Peer,Y. and Rokhsar,D.
+  TITLE     The genome of black cottonwood, Populus trichocarpa (Torr. & Gray)
+  JOURNAL   Science 313 (5793), 1596-1604 (2006)
+   PUBMED   16973872
+REFERENCE   2  (bases 1 to 1821)
+  AUTHORS   Shu,S., Lucas,S., Jenkins,J., Grimwood,J., Muchero,w., Hayes,R.,
+            Goodstein,D., Rokhsar,D., Schmutz,J. and Tuskan,G.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-SEP-2012) US DOE Joint Genome Institute, Mitchell
+            Drive B100, Walnut Creek, CA 94598-1698, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NC_008467).
+            On Dec 16, 2013 this sequence version replaced gi:224056830.
+FEATURES             Location/Qualifiers
+     source          1..1821
+                     /organism="Populus trichocarpa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3694"
+                     /linkage_group="LGI"
+     gene            1..1821
+                     /locus_tag="POPTR_0001s46910g"
+                     /old_locus_tag="POPTRDRAFT_753730"
+                     /db_xref="GeneID:7480418"
+     CDS             17..1618
+                     /locus_tag="POPTR_0001s46910g"
+                     /old_locus_tag="POPTRDRAFT_753730"
+                     /note="encoded by transcript POPTR_0001s469101"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_002299045.1"
+                     /db_xref="Phytozome:POPTR_0001s46910.1.p"
+                     /db_xref="GeneID:7480418"
+                     /translation="MTCLKASMLPFLLCLLISFSWVISAHPREDFLKCLSLHFEDPAA
+                     MSNAIHTPYNSSYSSILQFSIRNLRFNSSELKPLVIVTPTNASHIQAAILCSQRHNLQ
+                     IRIRSGGHDFEGLSYMAALPFVIIDLISLRAVNVDATSRTAWVQAGATLGELYYSISE
+                     KSRTLAFPAGSCPTIGVGGHFSGGGHGTMVRKFGLASDNVIDAHLIDSKGRILDRASM
+                     GEDLFWAIRGGGGQSFGVVVAWKISLVEVPSTVTMFSVSRTLEQNATKLLHRWQYVAN
+                     TLPEDLVIDVQVTRVNSSQEGNTTIQATFFSLFLGEVDQLLPVMQESFPELGLVKDDC
+                     FEMSWIESVFYTGGFTSNASLDVLLNRTPRSIPRFKAKSDYVKEPMPEIAFEGIWERF
+                     FEEDIEAPTLILIPYGGKMDEISESSTPFPHRAGNLYVLVSSVSWREESKEASRRHMA
+                     WIRRLYSYLTKYVSKNPREAYVNYRDLDLGINNLTGTTSYKQASIWGRKYFKNNFDRL
+                     VRVKTEVDPTNFFRNEQSIPSLSSW"
+ORIGIN      
+        1 ggaaaacata agaaaaatga cttgtctcaa agcttcaatg ctgccatttc tactctgtct
+       61 tctcatttca ttttcatggg tcatatcagc tcaccctcgt gaggattttc taaaatgcct
+      121 ttcccttcat tttgaagacc ccgctgccat gtccaatgca attcacaccc catacaactc
+      181 ctcgtatagc tctatcttgc agttctcaat acggaacctc aggttcaatt cttctgaact
+      241 aaaacctctt gtcatcgtta caccaacgaa tgcatcacac atccaggctg ccatcctttg
+      301 ctcccaaaga cataacttac aaattagaat acggagtggc gggcatgatt ttgaaggttt
+      361 atcttacatg gcagctctcc cgtttgtcat aatcgatctt atcagtctac gagctgtcaa
+      421 tgttgatgca acgagtagaa ctgcttgggt tcaggctggt gcaacactag gggaacttta
+      481 ttatagtatt tctgagaaaa gtagaactct tgccttccca gcaggtagtt gccctactat
+      541 aggtgttgga gggcacttta gtggtggagg acatggcacc atggtgcgca aattcggcct
+      601 cgcttcagat aatgtgattg atgctcattt aattgattct aaaggcagga tccttgatag
+      661 agcatcaatg ggagaagact tattctgggc catacgaggc ggaggagggc aaagctttgg
+      721 agtggttgtt gcatggaaaa taagtttggt tgaagttccg tccacagtga ctatgttttc
+      781 tgtttcaaga accttggaac aaaatgcaac aaagcttctc catcggtggc aatatgttgc
+      841 taatacgctt cctgaagatc tcgtcatcga tgtgcaagta accagagtta attcaagtca
+      901 agaaggaaac acaacaatac aagctacatt cttctccttg tttcttggtg aggttgacca
+      961 gcttcttcct gtgatgcaag agagcttccc tgagcttggt ttggtaaaag atgattgctt
+     1021 tgaaatgagt tggattgagt cggtcttcta cactggtgga tttacaagta atgcatcctt
+     1081 ggatgtgttg ctaaatagga ctcctcgatc cataccaaga ttcaaagcaa aatctgatta
+     1141 cgtgaaggaa cctatgcctg aaattgcatt tgaggggata tgggaaaggt tctttgaaga
+     1201 agacatcgag gcgcctacac ttatcctaat cccttatggg gggaaaatgg atgagatttc
+     1261 ggagtctagc actccatttc cacatagagc tggaaatctg tacgtattag tctccagtgt
+     1321 gtcttggaga gaagaaagca aggaggcatc ccgaaggcat atggcttgga ttagaaggct
+     1381 ttacagttac ttgactaaat atgtttctaa aaatcctcga gaagcttatg tgaattacag
+     1441 agatcttgac ctcggaataa ataacctgac aggcaccaca agttataaac aagcaagcat
+     1501 ttggggtcgg aagtatttca agaacaactt cgacaggttg gtacgcgtca agactgaagt
+     1561 cgatcctacc aatttcttta gaaacgagca gagtatccca tctctctcat cttggtgatc
+     1621 aaagggagct acaaagatgg gtcagaacaa gattaatgct aataataata tttctcttta
+     1681 tgcatcattt atcataaggt ttttcttcgt catcatcgat gagatttcgg cacgatccaa
+     1741 taatatttag gcatgcaagt taatgacaaa atttcccttt gtgatatttc aaacaaattc
+     1801 aataatatgt ttcttctgtt t
+//
+
+LOCUS       XM_002301158            1506 bp    mRNA    linear   PLN 31-DEC-2013
+DEFINITION  Populus trichocarpa patatin-like family protein (POPTR_0002s12950g)
+            mRNA, complete cds.
+ACCESSION   XM_002301158
+VERSION     XM_002301158.2
+KEYWORDS    RefSeq.
+SOURCE      Populus trichocarpa (Populus balsamifera subsp. trichocarpa)
+  ORGANISM  Populus trichocarpa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Malpighiales; Salicaceae; Saliceae;
+            Populus.
+REFERENCE   1  (bases 1 to 1506)
+  AUTHORS   Tuskan,G.A., Difazio,S., Jansson,S., Bohlmann,J., Grigoriev,I.,
+            Hellsten,U., Putnam,N., Ralph,S., Rombauts,S., Salamov,A.,
+            Schein,J., Sterck,L., Aerts,A., Bhalerao,R.R., Bhalerao,R.P.,
+            Blaudez,D., Boerjan,W., Brun,A., Brunner,A., Busov,V., Campbell,M.,
+            Carlson,J., Chalot,M., Chapman,J., Chen,G.L., Cooper,D.,
+            Coutinho,P.M., Couturier,J., Covert,S., Cronk,Q., Cunningham,R.,
+            Davis,J., Degroeve,S., Dejardin,A., Depamphilis,C., Detter,J.,
+            Dirks,B., Dubchak,I., Duplessis,S., Ehlting,J., Ellis,B.,
+            Gendler,K., Goodstein,D., Gribskov,M., Grimwood,J., Groover,A.,
+            Gunter,L., Hamberger,B., Heinze,B., Helariutta,Y., Henrissat,B.,
+            Holligan,D., Holt,R., Huang,W., Islam-Faridi,N., Jones,S.,
+            Jones-Rhoades,M., Jorgensen,R., Joshi,C., Kangasjarvi,J.,
+            Karlsson,J., Kelleher,C., Kirkpatrick,R., Kirst,M., Kohler,A.,
+            Kalluri,U., Larimer,F., Leebens-Mack,J., Leple,J.C., Locascio,P.,
+            Lou,Y., Lucas,S., Martin,F., Montanini,B., Napoli,C., Nelson,D.R.,
+            Nelson,C., Nieminen,K., Nilsson,O., Pereda,V., Peter,G.,
+            Philippe,R., Pilate,G., Poliakov,A., Razumovskaya,J.,
+            Richardson,P., Rinaldi,C., Ritland,K., Rouze,P., Ryaboy,D.,
+            Schmutz,J., Schrader,J., Segerman,B., Shin,H., Siddiqui,A.,
+            Sterky,F., Terry,A., Tsai,C.J., Uberbacher,E., Unneberg,P.,
+            Vahala,J., Wall,K., Wessler,S., Yang,G., Yin,T., Douglas,C.,
+            Marra,M., Sandberg,G., Van de Peer,Y. and Rokhsar,D.
+  TITLE     The genome of black cottonwood, Populus trichocarpa (Torr. & Gray)
+  JOURNAL   Science 313 (5793), 1596-1604 (2006)
+   PUBMED   16973872
+REFERENCE   2  (bases 1 to 1506)
+  AUTHORS   Shu,S., Lucas,S., Jenkins,J., Grimwood,J., Muchero,w., Hayes,R.,
+            Goodstein,D., Rokhsar,D., Schmutz,J. and Tuskan,G.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-SEP-2012) US DOE Joint Genome Institute, Mitchell
+            Drive B100, Walnut Creek, CA 94598-1698, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NC_008468).
+            On Dec 16, 2013 this sequence version replaced gi:224063538.
+FEATURES             Location/Qualifiers
+     source          1..1506
+                     /organism="Populus trichocarpa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3694"
+                     /linkage_group="LGII"
+     gene            1..1506
+                     /locus_tag="POPTR_0002s12950g"
+                     /old_locus_tag="POPTRDRAFT_551871"
+                     /db_xref="GeneID:7476076"
+     CDS             144..1361
+                     /locus_tag="POPTR_0002s12950g"
+                     /old_locus_tag="POPTRDRAFT_551871"
+                     /note="encoded by transcript POPTR_0002s129501"
+                     /codon_start=1
+                     /product="patatin-like family protein"
+                     /protein_id="XP_002301194.1"
+                     /db_xref="Phytozome:POPTR_0002s12950.1.p"
+                     /db_xref="GeneID:7476076"
+                     /translation="METPGSPHQPPTYGNLITVLSIDGGGIRGIIPGTILAFLESELQ
+                     KLDGEDARLADYFDVISGTSTGGLVTAMLTAPNEQNRPLFAAKDINDFYLKHSPRIFP
+                     QDGSPFAAAGNLIKAFSGPKYDGKYLHSIVKEKLGEKRLHQTLTNVVIPTFDIKYLQP
+                     TIFSSYQVKNDPSTDALLSDICIGTSAAPTYLPAHYFETKDSEGKVRGFNLVDGGVAA
+                     NNPTLVAIGEVSKEINRDSPDFFPVKPTDYGRFLVLSLGTGTAKTEEKYDANKAAKWG
+                     VLGWLTSDNSTPLVDVFTQASSDMVDLHLGTVFQALLSEKNYLRIQDDTLTGTLASVD
+                     IATKENLENLVKVGEGLLKKPVSRVNLDTGVFEPANKLTNEEALIKFAERLSHQKQLR
+                     LVRSPLGNDANPK"
+ORIGIN      
+        1 cttgatttga tttgagtgcg gactcccaga cagtcaaaaa ctttaattaa gcgaagcctc
+       61 tccagctagt tagcaatctc ttccatatcc tagttctccc gtcattcctt tttaaatttt
+      121 gtagcaccta tcttatcgct catatggaaa ctccaggatc accccatcaa ccaccaactt
+      181 atggaaacct aatcactgtt cttagcattg atggaggtgg aataagaggg atcataccag
+      241 ggactatcct tgcctttttg gagtccgaac ttcagaagct ggatggtgaa gatgcaagac
+      301 tcgcggacta ttttgatgtg atttcaggga ctagcactgg tggcctggtc actgccatgc
+      361 taactgcccc aaacgagcaa aatcgccctt tgtttgctgc caaagatatc aatgacttct
+      421 atcttaagca cagcccaaga atcttccccc aggatgggtc tccatttgca gctgctggta
+      481 atctgatcaa ggctttcagc gggccaaaat atgatggcaa atatttacat agcattgtca
+      541 aggagaaatt aggagaaaag cgattgcatc agaccttgac aaatgttgtg atcccaactt
+      601 ttgacatcaa atacctccag cccaccatct tttctagcta tcaggtgaag aatgatccat
+      661 ccaccgatgc tcttctatct gatatatgca ttggaacttc agctgcccca acttatctcc
+      721 cagcccatta ttttgaaacc aaagattcgg agggcaaagt gaggggtttc aatcttgttg
+      781 atggcggtgt ggctgctaat aatccgactt tagttgctat aggtgaagta tccaaagaaa
+      841 tcaatcggga cagccctgac ttcttccccg tgaagcccac ggactatggg cgattcctgg
+      901 tactgtctct tgggactggt acagcaaaaa cagaagaaaa gtacgatgca aataaggcag
+      961 caaagtgggg tgtcttggga tggttgacta gtgacaattc tactccattg gtggatgttt
+     1021 ttacgcaagc cagcagtgac atggttgacc ttcaccttgg aactgttttt caagccctcc
+     1081 tttctgaaaa aaattatctc cgaattcagg acgatacatt gactggaaca cttgcatccg
+     1141 tggatattgc caccaaagaa aatttagaaa atcttgtgaa agtgggtgaa ggattgttga
+     1201 agaaaccagt atcaagggtg aatctggata ccggtgtctt tgagcctgct aataagttga
+     1261 caaatgaaga ggctctcata aagtttgctg aacgactttc acaccagaaa cagcttcgtt
+     1321 tagtcaggtc accacttgga aatgatgcta atccgaaatg aagttgattg ttgctcttaa
+     1381 attaatttct tttttttaat tatttaattt aattacgtac gagattaaat acgcttttca
+     1441 gaatcaattt tattatttca tttaattgga ttcgaataaa tttggagaga ggaataaaaa
+     1501 aatgag
+//
+
+LOCUS       XM_002304781            2006 bp    mRNA    linear   PLN 31-DEC-2013
+DEFINITION  Populus trichocarpa hypothetical protein (POPTR_0003s19030g) mRNA,
+            complete cds.
+ACCESSION   XM_002304781
+VERSION     XM_002304781.2
+KEYWORDS    RefSeq.
+SOURCE      Populus trichocarpa (Populus balsamifera subsp. trichocarpa)
+  ORGANISM  Populus trichocarpa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Malpighiales; Salicaceae; Saliceae;
+            Populus.
+REFERENCE   1  (bases 1 to 2006)
+  AUTHORS   Tuskan,G.A., Difazio,S., Jansson,S., Bohlmann,J., Grigoriev,I.,
+            Hellsten,U., Putnam,N., Ralph,S., Rombauts,S., Salamov,A.,
+            Schein,J., Sterck,L., Aerts,A., Bhalerao,R.R., Bhalerao,R.P.,
+            Blaudez,D., Boerjan,W., Brun,A., Brunner,A., Busov,V., Campbell,M.,
+            Carlson,J., Chalot,M., Chapman,J., Chen,G.L., Cooper,D.,
+            Coutinho,P.M., Couturier,J., Covert,S., Cronk,Q., Cunningham,R.,
+            Davis,J., Degroeve,S., Dejardin,A., Depamphilis,C., Detter,J.,
+            Dirks,B., Dubchak,I., Duplessis,S., Ehlting,J., Ellis,B.,
+            Gendler,K., Goodstein,D., Gribskov,M., Grimwood,J., Groover,A.,
+            Gunter,L., Hamberger,B., Heinze,B., Helariutta,Y., Henrissat,B.,
+            Holligan,D., Holt,R., Huang,W., Islam-Faridi,N., Jones,S.,
+            Jones-Rhoades,M., Jorgensen,R., Joshi,C., Kangasjarvi,J.,
+            Karlsson,J., Kelleher,C., Kirkpatrick,R., Kirst,M., Kohler,A.,
+            Kalluri,U., Larimer,F., Leebens-Mack,J., Leple,J.C., Locascio,P.,
+            Lou,Y., Lucas,S., Martin,F., Montanini,B., Napoli,C., Nelson,D.R.,
+            Nelson,C., Nieminen,K., Nilsson,O., Pereda,V., Peter,G.,
+            Philippe,R., Pilate,G., Poliakov,A., Razumovskaya,J.,
+            Richardson,P., Rinaldi,C., Ritland,K., Rouze,P., Ryaboy,D.,
+            Schmutz,J., Schrader,J., Segerman,B., Shin,H., Siddiqui,A.,
+            Sterky,F., Terry,A., Tsai,C.J., Uberbacher,E., Unneberg,P.,
+            Vahala,J., Wall,K., Wessler,S., Yang,G., Yin,T., Douglas,C.,
+            Marra,M., Sandberg,G., Van de Peer,Y. and Rokhsar,D.
+  TITLE     The genome of black cottonwood, Populus trichocarpa (Torr. & Gray)
+  JOURNAL   Science 313 (5793), 1596-1604 (2006)
+   PUBMED   16973872
+REFERENCE   2  (bases 1 to 2006)
+  AUTHORS   Shu,S., Lucas,S., Jenkins,J., Grimwood,J., Muchero,w., Hayes,R.,
+            Goodstein,D., Rokhsar,D., Schmutz,J. and Tuskan,G.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-SEP-2012) US DOE Joint Genome Institute, Mitchell
+            Drive B100, Walnut Creek, CA 94598-1698, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NC_008469).
+            On Dec 16, 2013 this sequence version replaced gi:224075893.
+FEATURES             Location/Qualifiers
+     source          1..2006
+                     /organism="Populus trichocarpa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3694"
+                     /linkage_group="LGIII"
+     gene            1..2006
+                     /locus_tag="POPTR_0003s19030g"
+                     /old_locus_tag="POPTRDRAFT_758208"
+                     /db_xref="GeneID:7462810"
+     CDS             260..1930
+                     /locus_tag="POPTR_0003s19030g"
+                     /old_locus_tag="POPTRDRAFT_758208"
+                     /note="encoded by transcript POPTR_0003s190301"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_002304817.2"
+                     /db_xref="Phytozome:POPTR_0003s19030.1.p"
+                     /db_xref="GeneID:7462810"
+                     /translation="MDIFQMERSGYGSKRFPKLVVSFLIAFCLLYMVSMVYRSSTFVL
+                     IGEVAKDNGTGEVAENVTTPSGTESEDKHPSGTESMVVDKLLGGLLATGFDEESCISR
+                     YQATSYRKTSPHKPSAYLVSKLRKYEDLHKRCGPNTESYKRALKKLSSSHINGTTDCN
+                     YIVWTPSNGLGNRIISMASSFLYAVLTNRVLLVDHGTDMAGIFCEPFPNTSWLLPMDF
+                     PLTNQFYSLQPGNAHSYGHLLKINNMNISTVSQPPSFLHIYLAYNYDKHDKLFFQDQN
+                     QGFLQKVPWLILKSDQYFVPYLFLIPSFQQELGKLFPDKETVFHHLVRYLFHPSNQAW
+                     GLITRFYRAYLASADQKIGLQVRVFDRKASPVNVVLEQILGCIKKEKLLPQVDEQKPI
+                     ASPSKNQTLRAITIASLYPEYYERIKSMYWMKPTVNGDVIGVYQPSHEEVQHFGNNIH
+                     NMKAWAEISILSLSDILVTSSWSTFGYVAQGLGGLKPWILYVPAGNQPTDQPCPRGMS
+                     MEPCFHFPPDYHRIPNTRQRLDTGSLVPHVRQCEDASKGIKLFNAKQL"
+ORIGIN      
+        1 aggagagttc acagctagtc ttcttgtttg atcagaggtt catctctctt tgcttatccc
+       61 tcttttccat cttaattttt cttgttattg aatgttcttt tacgtgccaa tcaataaggg
+      121 aattatcttg atacattctt gaaaatgatg agtggtcact agtcagcctt atgtagcgta
+      181 tacttgatgg ttcagaactt cagatgattg ttctacaggg ggagattggt agcaccagag
+      241 attactttgt atagaaatca tggatatttt tcaaatggaa agatcagggt atggttcaaa
+      301 gaggtttcca aaactggtgg tttcgttttt gatagctttc tgtctgttat acatggtgtc
+      361 catggtttac agaagctcga cttttgttct aattggggaa gttgccaaag ataatggcac
+      421 aggagaagtg gcggaaaatg ttaccacacc ctcaggtacc gaatcggaag acaaacatcc
+      481 ctctggaact gagagcatgg ttgttgataa attgcttggt gggcttctgg ctacaggatt
+      541 tgatgaagaa tcctgcataa gcaggtacca agcgacctcg tatcgcaaaa cttcacctca
+      601 taagccctct gcctatcttg tttcgaaact gcgtaaatat gaagatcttc ataagcgctg
+      661 cggacctaac accgaatcct acaaaagagc tttgaagaaa ttgagttcta gccacatcaa
+      721 tggcactaca gactgcaatt acattgtttg gacgccttct aatggcttgg ggaataggat
+      781 aatcagcatg gcttcatcat ttctttatgc ggtcctcaca aacagagtcc tacttgttga
+      841 tcatggaacc gacatggctg gtatcttttg tgagccgttc ccaaatacat catggttatt
+      901 gcccatggat tttcctctca cgaatcaatt ctacagcttg caaccaggaa atgctcacag
+      961 ttatgggcac ctactaaaga ttaacaacat gaacatctca accgtgtcgc agccgccatc
+     1021 atttctgcat atttatttag cttacaacta cgataaacac gataagcttt ttttccagga
+     1081 tcaaaatcaa ggttttctcc aaaaagtccc ttggttgatt ctgaagtcag accaatactt
+     1141 tgtgccttac ctcttcttga tcccatcttt ccagcaagaa ctaggcaaac tgtttcctga
+     1201 taaagagact gttttccacc acttggttcg ctatcttttc cacccttcaa atcaagcctg
+     1261 gggactaatc accagattct atcgtgctta cttggccagt gcagatcaga agattggtct
+     1321 tcaagtgagg gtatttgata gaaaagcgag tccggttaat gttgttctgg agcagatact
+     1381 tggctgcatt aaaaaggaaa aactgctgcc tcaagtagat gagcaaaaac ctatagcttc
+     1441 cccatcaaaa aaccagacat taagagctat taccatagca tcattatatc cagaatacta
+     1501 cgagagaata aagagcatgt attggatgaa gccaacggta aatggagatg ttattggtgt
+     1561 ttatcagcca agtcacgaag aggttcaaca ttttggcaac aatatacaca atatgaaggc
+     1621 atgggctgaa ataagcatcc taagtttgag tgatattctg gtgactagtt cttggtctac
+     1681 tttcgggtat gtagctcaag gtctaggagg attgaagcca tggatcctat acgtgcctgc
+     1741 cggaaaccaa ccaactgatc agccttgtcc acgaggcatg tctatggagc catgctttca
+     1801 ttttcctcct gattatcacc ggattccaaa taccagacag cgacttgata ctggctccct
+     1861 tgttcctcat gtcaggcagt gtgaggatgc aagcaaggga ataaagctgt ttaatgctaa
+     1921 gcaactttag tacctgatgt agttatgatt cattttgtaa caatctgttc attgtcaata
+     1981 ttttgctatc aaaattcgat tttgca
+//
+
+LOCUS       XM_002305521             672 bp    mRNA    linear   PLN 31-DEC-2013
+DEFINITION  Populus trichocarpa hypothetical protein (POPTR_0004s19470g) mRNA,
+            complete cds.
+ACCESSION   XM_002305521
+VERSION     XM_002305521.2
+KEYWORDS    RefSeq.
+SOURCE      Populus trichocarpa (Populus balsamifera subsp. trichocarpa)
+  ORGANISM  Populus trichocarpa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Malpighiales; Salicaceae; Saliceae;
+            Populus.
+REFERENCE   1  (bases 1 to 672)
+  AUTHORS   Tuskan,G.A., Difazio,S., Jansson,S., Bohlmann,J., Grigoriev,I.,
+            Hellsten,U., Putnam,N., Ralph,S., Rombauts,S., Salamov,A.,
+            Schein,J., Sterck,L., Aerts,A., Bhalerao,R.R., Bhalerao,R.P.,
+            Blaudez,D., Boerjan,W., Brun,A., Brunner,A., Busov,V., Campbell,M.,
+            Carlson,J., Chalot,M., Chapman,J., Chen,G.L., Cooper,D.,
+            Coutinho,P.M., Couturier,J., Covert,S., Cronk,Q., Cunningham,R.,
+            Davis,J., Degroeve,S., Dejardin,A., Depamphilis,C., Detter,J.,
+            Dirks,B., Dubchak,I., Duplessis,S., Ehlting,J., Ellis,B.,
+            Gendler,K., Goodstein,D., Gribskov,M., Grimwood,J., Groover,A.,
+            Gunter,L., Hamberger,B., Heinze,B., Helariutta,Y., Henrissat,B.,
+            Holligan,D., Holt,R., Huang,W., Islam-Faridi,N., Jones,S.,
+            Jones-Rhoades,M., Jorgensen,R., Joshi,C., Kangasjarvi,J.,
+            Karlsson,J., Kelleher,C., Kirkpatrick,R., Kirst,M., Kohler,A.,
+            Kalluri,U., Larimer,F., Leebens-Mack,J., Leple,J.C., Locascio,P.,
+            Lou,Y., Lucas,S., Martin,F., Montanini,B., Napoli,C., Nelson,D.R.,
+            Nelson,C., Nieminen,K., Nilsson,O., Pereda,V., Peter,G.,
+            Philippe,R., Pilate,G., Poliakov,A., Razumovskaya,J.,
+            Richardson,P., Rinaldi,C., Ritland,K., Rouze,P., Ryaboy,D.,
+            Schmutz,J., Schrader,J., Segerman,B., Shin,H., Siddiqui,A.,
+            Sterky,F., Terry,A., Tsai,C.J., Uberbacher,E., Unneberg,P.,
+            Vahala,J., Wall,K., Wessler,S., Yang,G., Yin,T., Douglas,C.,
+            Marra,M., Sandberg,G., Van de Peer,Y. and Rokhsar,D.
+  TITLE     The genome of black cottonwood, Populus trichocarpa (Torr. & Gray)
+  JOURNAL   Science 313 (5793), 1596-1604 (2006)
+   PUBMED   16973872
+REFERENCE   2  (bases 1 to 672)
+  AUTHORS   Shu,S., Lucas,S., Jenkins,J., Grimwood,J., Muchero,w., Hayes,R.,
+            Goodstein,D., Rokhsar,D., Schmutz,J. and Tuskan,G.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-SEP-2012) US DOE Joint Genome Institute, Mitchell
+            Drive B100, Walnut Creek, CA 94598-1698, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NC_008470).
+            On Dec 16, 2013 this sequence version replaced gi:224078556.
+FEATURES             Location/Qualifiers
+     source          1..672
+                     /organism="Populus trichocarpa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3694"
+                     /linkage_group="LGIV"
+     gene            1..672
+                     /locus_tag="POPTR_0004s19470g"
+                     /old_locus_tag="POPTRDRAFT_831341"
+                     /db_xref="GeneID:7470445"
+     CDS             92..421
+                     /locus_tag="POPTR_0004s19470g"
+                     /old_locus_tag="POPTRDRAFT_831341"
+                     /note="encoded by transcript POPTR_0004s194701"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_002305557.1"
+                     /db_xref="Phytozome:POPTR_0004s19470.1.p"
+                     /db_xref="GeneID:7470445"
+                     /translation="MSKKVVAESPLQRNSLASLDQKLAMAKRCSHEGVVAGAKAAVLA
+                     TIATAIPTMASARMLPWARANLNHTAQALIISTVAGAAYFIVADKTVLATARKNSFKS
+                     PSSNIEA"
+ORIGIN      
+        1 aagcaaaaca aacctcccca tatttcctct aggagcaatc aacttcttcc attaattagc
+       61 cagcgttggt cttgttcact tgcctcttaa aatgtctaag aaagttgttg ctgagtctcc
+      121 tcttcagaga aatagcttag cttcacttga ccaaaagctg gccatggcaa agcgctgctc
+      181 tcatgaagga gtggttgcag gagcaaaggc agctgtactt gctaccattg ccactgccat
+      241 tccaactatg gctagtgcaa ggatgctgcc atgggcaagg gccaatctga atcacacagc
+      301 tcaagctctc ataatttcaa ctgttgctgg agcagcatat tttatagttg cagacaagac
+      361 tgttcttgct acagcaagaa agaactcctt caagagtccc agctctaaca ttgaggcgtg
+      421 atgacctaat tatccagacc ttgtttgtag ttcatcaagt aaatttgtaa accatcagct
+      481 atatgtatgc atggataaag atggagttta catttttagt ctatgaaagc atttattttc
+      541 ttgtaaaatt ataactacat tgattggagc ctgtgatcca tcttattatc tccagcaatg
+      601 gatgtatcaa ccttaaatct gtccaattac actataagaa caacaaaatt gttcattttc
+      661 taccaaatat ag
+//
+
+LOCUS       XM_002308953             771 bp    mRNA    linear   PLN 31-DEC-2013
+DEFINITION  Populus trichocarpa phospholipase A2 family protein
+            (POPTR_0006s06970g) mRNA, complete cds.
+ACCESSION   XM_002308953
+VERSION     XM_002308953.2
+KEYWORDS    RefSeq.
+SOURCE      Populus trichocarpa (Populus balsamifera subsp. trichocarpa)
+  ORGANISM  Populus trichocarpa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Malpighiales; Salicaceae; Saliceae;
+            Populus.
+REFERENCE   1  (bases 1 to 771)
+  AUTHORS   Tuskan,G.A., Difazio,S., Jansson,S., Bohlmann,J., Grigoriev,I.,
+            Hellsten,U., Putnam,N., Ralph,S., Rombauts,S., Salamov,A.,
+            Schein,J., Sterck,L., Aerts,A., Bhalerao,R.R., Bhalerao,R.P.,
+            Blaudez,D., Boerjan,W., Brun,A., Brunner,A., Busov,V., Campbell,M.,
+            Carlson,J., Chalot,M., Chapman,J., Chen,G.L., Cooper,D.,
+            Coutinho,P.M., Couturier,J., Covert,S., Cronk,Q., Cunningham,R.,
+            Davis,J., Degroeve,S., Dejardin,A., Depamphilis,C., Detter,J.,
+            Dirks,B., Dubchak,I., Duplessis,S., Ehlting,J., Ellis,B.,
+            Gendler,K., Goodstein,D., Gribskov,M., Grimwood,J., Groover,A.,
+            Gunter,L., Hamberger,B., Heinze,B., Helariutta,Y., Henrissat,B.,
+            Holligan,D., Holt,R., Huang,W., Islam-Faridi,N., Jones,S.,
+            Jones-Rhoades,M., Jorgensen,R., Joshi,C., Kangasjarvi,J.,
+            Karlsson,J., Kelleher,C., Kirkpatrick,R., Kirst,M., Kohler,A.,
+            Kalluri,U., Larimer,F., Leebens-Mack,J., Leple,J.C., Locascio,P.,
+            Lou,Y., Lucas,S., Martin,F., Montanini,B., Napoli,C., Nelson,D.R.,
+            Nelson,C., Nieminen,K., Nilsson,O., Pereda,V., Peter,G.,
+            Philippe,R., Pilate,G., Poliakov,A., Razumovskaya,J.,
+            Richardson,P., Rinaldi,C., Ritland,K., Rouze,P., Ryaboy,D.,
+            Schmutz,J., Schrader,J., Segerman,B., Shin,H., Siddiqui,A.,
+            Sterky,F., Terry,A., Tsai,C.J., Uberbacher,E., Unneberg,P.,
+            Vahala,J., Wall,K., Wessler,S., Yang,G., Yin,T., Douglas,C.,
+            Marra,M., Sandberg,G., Van de Peer,Y. and Rokhsar,D.
+  TITLE     The genome of black cottonwood, Populus trichocarpa (Torr. & Gray)
+  JOURNAL   Science 313 (5793), 1596-1604 (2006)
+   PUBMED   16973872
+REFERENCE   2  (bases 1 to 771)
+  AUTHORS   Shu,S., Lucas,S., Jenkins,J., Grimwood,J., Muchero,w., Hayes,R.,
+            Goodstein,D., Rokhsar,D., Schmutz,J. and Tuskan,G.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-SEP-2012) US DOE Joint Genome Institute, Mitchell
+            Drive B100, Walnut Creek, CA 94598-1698, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NC_008472).
+            On Dec 16, 2013 this sequence version replaced gi:224090454.
+FEATURES             Location/Qualifiers
+     source          1..771
+                     /organism="Populus trichocarpa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3694"
+                     /linkage_group="LGVI"
+     gene            1..771
+                     /locus_tag="POPTR_0006s06970g"
+                     /old_locus_tag="POPTRDRAFT_1080509"
+                     /db_xref="GeneID:7485480"
+     CDS             135..614
+                     /locus_tag="POPTR_0006s06970g"
+                     /old_locus_tag="POPTRDRAFT_1080509"
+                     /note="encoded by transcript POPTR_0006s069701"
+                     /codon_start=1
+                     /product="phospholipase A2 family protein"
+                     /protein_id="XP_002308989.1"
+                     /db_xref="Phytozome:POPTR_0006s06970.1.p"
+                     /db_xref="GeneID:7485480"
+                     /translation="MAKEHQFYSLKLALLVSCSLLVLPFSSFYVQALNIGVQTADSAI
+                     SLGKDCSRKCESEFCSVPPFLRYGKYCGLLYSGCPGEKPCDGLDACCMKHDACIQSKN
+                     NSYLSQECSQNFISCMSNFKTGARTFKGNKCRADEVIHVISVVMEAALLAGRALHKP"
+ORIGIN      
+        1 gctgatcctt tactttcttc agtttctcaa catattttaa tcttaatctt ctacgtttct
+       61 tccttattct gcccatatat tattctctgc cttttaagca caaccaagct tcattttttt
+      121 cagtcctaaa aacaatggct aaggagcacc agttctattc attgaagtta gctcttctcg
+      181 tttcttgttc cctacttgtc cttccctttt catcttttta tgtccaagca ctcaacattg
+      241 gagttcaaac agctgattct gctatctccc tgggcaaaga ttgtagtagg aaatgtgagt
+      301 cagagttctg ctcagtgcct ccatttttga gatatggcaa gtattgtggg cttctataca
+      361 gtggatgccc aggagagaag ccttgtgatg gccttgatgc ttgttgcatg aagcatgatg
+      421 cctgtatcca atcaaagaac aatagctatc taagtcaaga gtgtagccaa aacttcatca
+      481 gttgtatgag caatttcaaa acaggtgctc ggacgttcaa gggaaacaaa tgcagggctg
+      541 atgaagttat tcatgttata tctgtagtca tggaagctgc tttgcttgcc ggaagagcac
+      601 ttcataagcc ataagacgta cagaatcaat attcctgctg tcttttcatt tctatttaaa
+      661 aaaaaaacaa aataaatttg gcgtttcctt tccttacata ctgcttgaag ctgtgcatgc
+      721 aaacttaaaa gagccattag gcatgttaat cacccgttta tttcatgtcc c
+//
+
+LOCUS       XM_002313474            1114 bp    mRNA    linear   PLN 31-DEC-2013
+DEFINITION  Populus trichocarpa hypothetical protein (POPTR_0009s01940g) mRNA,
+            complete cds.
+ACCESSION   XM_002313474
+VERSION     XM_002313474.2
+KEYWORDS    RefSeq.
+SOURCE      Populus trichocarpa (Populus balsamifera subsp. trichocarpa)
+  ORGANISM  Populus trichocarpa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Malpighiales; Salicaceae; Saliceae;
+            Populus.
+REFERENCE   1  (bases 1 to 1114)
+  AUTHORS   Tuskan,G.A., Difazio,S., Jansson,S., Bohlmann,J., Grigoriev,I.,
+            Hellsten,U., Putnam,N., Ralph,S., Rombauts,S., Salamov,A.,
+            Schein,J., Sterck,L., Aerts,A., Bhalerao,R.R., Bhalerao,R.P.,
+            Blaudez,D., Boerjan,W., Brun,A., Brunner,A., Busov,V., Campbell,M.,
+            Carlson,J., Chalot,M., Chapman,J., Chen,G.L., Cooper,D.,
+            Coutinho,P.M., Couturier,J., Covert,S., Cronk,Q., Cunningham,R.,
+            Davis,J., Degroeve,S., Dejardin,A., Depamphilis,C., Detter,J.,
+            Dirks,B., Dubchak,I., Duplessis,S., Ehlting,J., Ellis,B.,
+            Gendler,K., Goodstein,D., Gribskov,M., Grimwood,J., Groover,A.,
+            Gunter,L., Hamberger,B., Heinze,B., Helariutta,Y., Henrissat,B.,
+            Holligan,D., Holt,R., Huang,W., Islam-Faridi,N., Jones,S.,
+            Jones-Rhoades,M., Jorgensen,R., Joshi,C., Kangasjarvi,J.,
+            Karlsson,J., Kelleher,C., Kirkpatrick,R., Kirst,M., Kohler,A.,
+            Kalluri,U., Larimer,F., Leebens-Mack,J., Leple,J.C., Locascio,P.,
+            Lou,Y., Lucas,S., Martin,F., Montanini,B., Napoli,C., Nelson,D.R.,
+            Nelson,C., Nieminen,K., Nilsson,O., Pereda,V., Peter,G.,
+            Philippe,R., Pilate,G., Poliakov,A., Razumovskaya,J.,
+            Richardson,P., Rinaldi,C., Ritland,K., Rouze,P., Ryaboy,D.,
+            Schmutz,J., Schrader,J., Segerman,B., Shin,H., Siddiqui,A.,
+            Sterky,F., Terry,A., Tsai,C.J., Uberbacher,E., Unneberg,P.,
+            Vahala,J., Wall,K., Wessler,S., Yang,G., Yin,T., Douglas,C.,
+            Marra,M., Sandberg,G., Van de Peer,Y. and Rokhsar,D.
+  TITLE     The genome of black cottonwood, Populus trichocarpa (Torr. & Gray)
+  JOURNAL   Science 313 (5793), 1596-1604 (2006)
+   PUBMED   16973872
+REFERENCE   2  (bases 1 to 1114)
+  AUTHORS   Shu,S., Lucas,S., Jenkins,J., Grimwood,J., Muchero,w., Hayes,R.,
+            Goodstein,D., Rokhsar,D., Schmutz,J. and Tuskan,G.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-SEP-2012) US DOE Joint Genome Institute, Mitchell
+            Drive B100, Walnut Creek, CA 94598-1698, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NC_008475).
+            On Dec 16, 2013 this sequence version replaced gi:224104638.
+FEATURES             Location/Qualifiers
+     source          1..1114
+                     /organism="Populus trichocarpa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3694"
+                     /linkage_group="LGIX"
+     gene            1..1114
+                     /locus_tag="POPTR_0009s01940g"
+                     /old_locus_tag="POPTRDRAFT_821627"
+                     /db_xref="GeneID:7491133"
+     CDS             47..901
+                     /locus_tag="POPTR_0009s01940g"
+                     /old_locus_tag="POPTRDRAFT_821627"
+                     /note="encoded by transcript POPTR_0009s019401"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_002313510.1"
+                     /db_xref="Phytozome:POPTR_0009s01940.1.p"
+                     /db_xref="GeneID:7491133"
+                     /translation="MAKDIEVAEHGETVKDYQDPPPAPLIDAEELGQWSFYRALIAEF
+                     IATLLFLYVTVLTVIGYKSQTDPDKGLDACGGVGILGIAWAFGGMIFVLVYCTAGISG
+                     GHINPAVTFGLFLARKVSLIRAVLYMVAQCLGAICGCGLVKAFQKSYYNHYGGGANEL
+                     QEGYNKGTGLGAEIIGTFVLVYTVFSATDPKRNARDSHVPVLAPLPIGFAVFMVHLAT
+                     IPITGTGINPARSFGAAVIFNQSKAWDDHWLFWVGPFIGAAIAAFYHQFILRAAAIKA
+                     LGSFRSNA"
+ORIGIN      
+        1 cattagtaat agcctttctc tacatttgaa gttgaggtag ctaagtatgg cgaaggatat
+       61 tgaggttgca gagcatggag agactgtgaa ggactaccag gacccacctc cagctccatt
+      121 gattgatgct gaggagctag gacaatggtc cttttacagg gctcttattg cagaattcat
+      181 cgccaccctt ctcttccttt atgtcacggt cttgactgtt attggataca aaagccagac
+      241 agacccagac aagggtctgg atgcttgtgg tggtgttggc attcttggta ttgcttgggc
+      301 cttcggtggc atgatctttg tccttgttta ctgcactgct ggtatctctg gaggacacat
+      361 caacccagca gtgacctttg gtctgtttct ggcgaggaag gtgtcgctca tcagggctgt
+      421 tttgtacatg gtggcacagt gcttgggtgc gatatgcggc tgtggtttgg tgaaggcctt
+      481 ccaaaagtct tattacaatc actatggagg cggagccaac gagctgcagg aagggtacaa
+      541 caagggcact ggattgggtg ctgaaatcat cggtactttt gttcttgtct acactgtctt
+      601 ctccgccact gatcccaaga ggaatgctag agactcccat gttcctgtat tggcacctct
+      661 ccccattgga tttgctgtgt tcatggttca cctcgccaca atcccaatta ctggtactgg
+      721 catcaaccct gctaggagct tcggagctgc tgttatcttt aaccaaagca aggcctggga
+      781 tgaccattgg ctcttctggg ttggaccctt cattggagct gccattgctg ctttctacca
+      841 ccagttcatt cttagagcag cggctattaa ggctctagga tccttcagga gcaatgctta
+      901 aagccttctc aaattaatca agggtccctt gtgcaattgg gaaaactctc tctttgcctt
+      961 ctcatgggaa atttagatgg cagtggaatt ataaataata ataattatta aaaaaaaaaa
+     1021 aaagtcttct caatccctgt tggtttttgc tattattgta tttctcagtt gggtcatgtt
+     1081 atgtctatcc ttaatctttc tcttcctttt taac
+//
+
+LOCUS       XM_002314165            1089 bp    mRNA    linear   PLN 31-DEC-2013
+DEFINITION  Populus trichocarpa nodulin-26 family protein (POPTR_0009s03230g)
+            mRNA, complete cds.
+ACCESSION   XM_002314165
+VERSION     XM_002314165.2
+KEYWORDS    RefSeq.
+SOURCE      Populus trichocarpa (Populus balsamifera subsp. trichocarpa)
+  ORGANISM  Populus trichocarpa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Malpighiales; Salicaceae; Saliceae;
+            Populus.
+REFERENCE   1  (bases 1 to 1089)
+  AUTHORS   Tuskan,G.A., Difazio,S., Jansson,S., Bohlmann,J., Grigoriev,I.,
+            Hellsten,U., Putnam,N., Ralph,S., Rombauts,S., Salamov,A.,
+            Schein,J., Sterck,L., Aerts,A., Bhalerao,R.R., Bhalerao,R.P.,
+            Blaudez,D., Boerjan,W., Brun,A., Brunner,A., Busov,V., Campbell,M.,
+            Carlson,J., Chalot,M., Chapman,J., Chen,G.L., Cooper,D.,
+            Coutinho,P.M., Couturier,J., Covert,S., Cronk,Q., Cunningham,R.,
+            Davis,J., Degroeve,S., Dejardin,A., Depamphilis,C., Detter,J.,
+            Dirks,B., Dubchak,I., Duplessis,S., Ehlting,J., Ellis,B.,
+            Gendler,K., Goodstein,D., Gribskov,M., Grimwood,J., Groover,A.,
+            Gunter,L., Hamberger,B., Heinze,B., Helariutta,Y., Henrissat,B.,
+            Holligan,D., Holt,R., Huang,W., Islam-Faridi,N., Jones,S.,
+            Jones-Rhoades,M., Jorgensen,R., Joshi,C., Kangasjarvi,J.,
+            Karlsson,J., Kelleher,C., Kirkpatrick,R., Kirst,M., Kohler,A.,
+            Kalluri,U., Larimer,F., Leebens-Mack,J., Leple,J.C., Locascio,P.,
+            Lou,Y., Lucas,S., Martin,F., Montanini,B., Napoli,C., Nelson,D.R.,
+            Nelson,C., Nieminen,K., Nilsson,O., Pereda,V., Peter,G.,
+            Philippe,R., Pilate,G., Poliakov,A., Razumovskaya,J.,
+            Richardson,P., Rinaldi,C., Ritland,K., Rouze,P., Ryaboy,D.,
+            Schmutz,J., Schrader,J., Segerman,B., Shin,H., Siddiqui,A.,
+            Sterky,F., Terry,A., Tsai,C.J., Uberbacher,E., Unneberg,P.,
+            Vahala,J., Wall,K., Wessler,S., Yang,G., Yin,T., Douglas,C.,
+            Marra,M., Sandberg,G., Van de Peer,Y. and Rokhsar,D.
+  TITLE     The genome of black cottonwood, Populus trichocarpa (Torr. & Gray)
+  JOURNAL   Science 313 (5793), 1596-1604 (2006)
+   PUBMED   16973872
+REFERENCE   2  (bases 1 to 1089)
+  AUTHORS   Shu,S., Lucas,S., Jenkins,J., Grimwood,J., Muchero,w., Hayes,R.,
+            Goodstein,D., Rokhsar,D., Schmutz,J. and Tuskan,G.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-SEP-2012) US DOE Joint Genome Institute, Mitchell
+            Drive B100, Walnut Creek, CA 94598-1698, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NC_008475).
+            On Dec 16, 2013 this sequence version replaced gi:224106540.
+FEATURES             Location/Qualifiers
+     source          1..1089
+                     /organism="Populus trichocarpa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3694"
+                     /linkage_group="LGIX"
+     gene            1..1089
+                     /locus_tag="POPTR_0009s03230g"
+                     /old_locus_tag="POPTRDRAFT_833283"
+                     /db_xref="GeneID:7489277"
+     CDS             77..835
+                     /locus_tag="POPTR_0009s03230g"
+                     /old_locus_tag="POPTRDRAFT_833283"
+                     /note="encoded by transcript POPTR_0009s032301"
+                     /codon_start=1
+                     /product="nodulin-26 family protein"
+                     /protein_id="XP_002314201.1"
+                     /db_xref="Phytozome:POPTR_0009s03230.1.p"
+                     /db_xref="GeneID:7489277"
+                     /translation="MAITSIAFGSPAEVGQSDALKAALAEFISMLIFVFAGEGSGMAF
+                     NKLTDDGSSTPAGLVAASLAHAFALFVAVSVGANISGGHVNPAVTFGAFLGGHITFIR
+                     SILYWVAQCLGSVVACLLLKLATGGLETSAFSLSSGVGVWNAVVFEIVMTFGLVYTVY
+                     ATAVDPKRGDIGIIAPIAIGFIVGANILAGGAFDGASMNPAVSFGPAVVSWTWDNHWV
+                     YWLGPFVGSAIAAIVYEVCFISPTTHEQLTSSDF"
+ORIGIN      
+        1 agagacaaga gggaaaaagc aattttaagg ctgtttgaaa tcaggcttaa aggtgtagag
+       61 ttaattaatt taaaaaatgg caatcactag cattgcgttc ggatctcctg cagaggtcgg
+      121 ccagagtgat gcgctcaagg cagccttagc agagttcatt tccatgctca tttttgtctt
+      181 tgcgggagaa ggctctggca tggctttcaa caagcttacc gacgatggct catcaacacc
+      241 ggccgggcta gtagctgcgt cgctggctca cgcttttgca ctctttgttg cggtttcagt
+      301 tggtgccaac atttccggcg ggcacgtaaa ccctgctgtt acattcggtg ccttccttgg
+      361 tggccacata acattcatta gaagtattct gtactgggtt gcccagtgcc ttggatctgt
+      421 agttgcctgt ttgcttctta agcttgcaac tggtggactg gaaacatcag ccttctctct
+      481 atcatctgga gttggtgtat ggaatgcagt tgttttcgaa attgtgatga cctttggttt
+      541 ggtttacact gtgtatgcaa cagctgttga cccgaaaagg ggtgacatcg ggataattgc
+      601 acccattgct attggcttca tcgtgggtgc taacatttta gctggtggtg cttttgatgg
+      661 tgcatccatg aaccccgcag tctcgtttgg accagcagtc gtgagttgga catgggacaa
+      721 ccactgggtc tactggctcg gtccattcgt tggttctgca attgctgcca ttgtctacga
+      781 ggtctgtttc attagcccaa ccacacacga gcagctcacc tcttcagact tctaagaaga
+      841 tgaaaacata catactttgg atgaaacagg gttgaaggtt tggatgatgt tggtgttgtt
+      901 gcgttgttta taattctggt ttttctgtta ttattcgatt ccagttacct ttgtcttgtt
+      961 tttccttaag aatttcccac ttgtgccaac tcgacatggt ttaagtgaat gcttccactt
+     1021 cgattgagac aattgctcgg aaattgatcc tagatttttg tcttgtgaaa ttgagtaaat
+     1081 taaagaaag
+//
+
+LOCUS       XM_002320982             598 bp    mRNA    linear   PLN 31-DEC-2013
+DEFINITION  Populus trichocarpa hypothetical protein (POPTR_0014s12630g) mRNA,
+            complete cds.
+ACCESSION   XM_002320982
+VERSION     XM_002320982.2
+KEYWORDS    RefSeq.
+SOURCE      Populus trichocarpa (Populus balsamifera subsp. trichocarpa)
+  ORGANISM  Populus trichocarpa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Malpighiales; Salicaceae; Saliceae;
+            Populus.
+REFERENCE   1  (bases 1 to 598)
+  AUTHORS   Tuskan,G.A., Difazio,S., Jansson,S., Bohlmann,J., Grigoriev,I.,
+            Hellsten,U., Putnam,N., Ralph,S., Rombauts,S., Salamov,A.,
+            Schein,J., Sterck,L., Aerts,A., Bhalerao,R.R., Bhalerao,R.P.,
+            Blaudez,D., Boerjan,W., Brun,A., Brunner,A., Busov,V., Campbell,M.,
+            Carlson,J., Chalot,M., Chapman,J., Chen,G.L., Cooper,D.,
+            Coutinho,P.M., Couturier,J., Covert,S., Cronk,Q., Cunningham,R.,
+            Davis,J., Degroeve,S., Dejardin,A., Depamphilis,C., Detter,J.,
+            Dirks,B., Dubchak,I., Duplessis,S., Ehlting,J., Ellis,B.,
+            Gendler,K., Goodstein,D., Gribskov,M., Grimwood,J., Groover,A.,
+            Gunter,L., Hamberger,B., Heinze,B., Helariutta,Y., Henrissat,B.,
+            Holligan,D., Holt,R., Huang,W., Islam-Faridi,N., Jones,S.,
+            Jones-Rhoades,M., Jorgensen,R., Joshi,C., Kangasjarvi,J.,
+            Karlsson,J., Kelleher,C., Kirkpatrick,R., Kirst,M., Kohler,A.,
+            Kalluri,U., Larimer,F., Leebens-Mack,J., Leple,J.C., Locascio,P.,
+            Lou,Y., Lucas,S., Martin,F., Montanini,B., Napoli,C., Nelson,D.R.,
+            Nelson,C., Nieminen,K., Nilsson,O., Pereda,V., Peter,G.,
+            Philippe,R., Pilate,G., Poliakov,A., Razumovskaya,J.,
+            Richardson,P., Rinaldi,C., Ritland,K., Rouze,P., Ryaboy,D.,
+            Schmutz,J., Schrader,J., Segerman,B., Shin,H., Siddiqui,A.,
+            Sterky,F., Terry,A., Tsai,C.J., Uberbacher,E., Unneberg,P.,
+            Vahala,J., Wall,K., Wessler,S., Yang,G., Yin,T., Douglas,C.,
+            Marra,M., Sandberg,G., Van de Peer,Y. and Rokhsar,D.
+  TITLE     The genome of black cottonwood, Populus trichocarpa (Torr. & Gray)
+  JOURNAL   Science 313 (5793), 1596-1604 (2006)
+   PUBMED   16973872
+REFERENCE   2  (bases 1 to 598)
+  AUTHORS   Shu,S., Lucas,S., Jenkins,J., Grimwood,J., Muchero,w., Hayes,R.,
+            Goodstein,D., Rokhsar,D., Schmutz,J. and Tuskan,G.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-SEP-2012) US DOE Joint Genome Institute, Mitchell
+            Drive B100, Walnut Creek, CA 94598-1698, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NC_008480).
+            On Dec 16, 2013 this sequence version replaced gi:224131171.
+FEATURES             Location/Qualifiers
+     source          1..598
+                     /organism="Populus trichocarpa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3694"
+                     /linkage_group="LGXIV"
+     gene            1..598
+                     /locus_tag="POPTR_0014s12630g"
+                     /old_locus_tag="POPTRDRAFT_245880"
+                     /db_xref="GeneID:7491312"
+     CDS             59..406
+                     /locus_tag="POPTR_0014s12630g"
+                     /old_locus_tag="POPTRDRAFT_245880"
+                     /note="encoded by transcript POPTR_0014s126301"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_002321018.2"
+                     /db_xref="Phytozome:POPTR_0014s12630.1.p"
+                     /db_xref="GeneID:7491312"
+                     /translation="MANSYRYLFLVLLLSALIISSSTVDASEDHNLNWVPTRARGCQG
+                     TVAECMGNDEFEMDSEINRRILATSNYISYDALGKNNVPCSQRGASYYNCKTGAEANP
+                     YSRGCSAITRCRS"
+ORIGIN      
+        1 gcaacacagg agaaaagaaa catagaagag aagcaagaga aaacaaagaa gaaaaacaat
+       61 ggccaattcc taccgctatc tcttcctcgt gttgctcctt tcagctctga tcatctcttc
+      121 atccaccgtc gatgcgagtg aagaccacaa cctcaactgg gtcccaacga gagccagagg
+      181 atgccaagga acggtggcag aatgcatggg aaacgatgag tttgagatgg actcggagat
+      241 aaacaggcgg atattggcga ctagcaacta cataagctac gatgctttgg ggaagaacaa
+      301 cgtaccatgc tcccagagag gtgcatccta ttacaattgc aagacaggtg cagaggccaa
+      361 cccttatagc cgtggttgca gtgctattac tcgctgccgt agttgagtga ttttttgttt
+      421 ttcttcttaa actaccactg caatgttttg tgtatggtat gtagtttgtt taattgttgt
+      481 tttttctttt tgaaacgcat ggtcaatctt gttttttcta aatgaaatgt gaagggtcac
+      541 atataaatgc agcaatttgt ttttccattg atatacatgg ccatgtcctc gttgcttc
+//
+
+LOCUS       XM_002322903            1710 bp    mRNA    linear   PLN 31-DEC-2013
+DEFINITION  Populus trichocarpa hypothetical protein (POPTR_0016s11520g) mRNA,
+            complete cds.
+ACCESSION   XM_002322903
+VERSION     XM_002322903.2
+KEYWORDS    RefSeq.
+SOURCE      Populus trichocarpa (Populus balsamifera subsp. trichocarpa)
+  ORGANISM  Populus trichocarpa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Malpighiales; Salicaceae; Saliceae;
+            Populus.
+REFERENCE   1  (bases 1 to 1710)
+  AUTHORS   Tuskan,G.A., Difazio,S., Jansson,S., Bohlmann,J., Grigoriev,I.,
+            Hellsten,U., Putnam,N., Ralph,S., Rombauts,S., Salamov,A.,
+            Schein,J., Sterck,L., Aerts,A., Bhalerao,R.R., Bhalerao,R.P.,
+            Blaudez,D., Boerjan,W., Brun,A., Brunner,A., Busov,V., Campbell,M.,
+            Carlson,J., Chalot,M., Chapman,J., Chen,G.L., Cooper,D.,
+            Coutinho,P.M., Couturier,J., Covert,S., Cronk,Q., Cunningham,R.,
+            Davis,J., Degroeve,S., Dejardin,A., Depamphilis,C., Detter,J.,
+            Dirks,B., Dubchak,I., Duplessis,S., Ehlting,J., Ellis,B.,
+            Gendler,K., Goodstein,D., Gribskov,M., Grimwood,J., Groover,A.,
+            Gunter,L., Hamberger,B., Heinze,B., Helariutta,Y., Henrissat,B.,
+            Holligan,D., Holt,R., Huang,W., Islam-Faridi,N., Jones,S.,
+            Jones-Rhoades,M., Jorgensen,R., Joshi,C., Kangasjarvi,J.,
+            Karlsson,J., Kelleher,C., Kirkpatrick,R., Kirst,M., Kohler,A.,
+            Kalluri,U., Larimer,F., Leebens-Mack,J., Leple,J.C., Locascio,P.,
+            Lou,Y., Lucas,S., Martin,F., Montanini,B., Napoli,C., Nelson,D.R.,
+            Nelson,C., Nieminen,K., Nilsson,O., Pereda,V., Peter,G.,
+            Philippe,R., Pilate,G., Poliakov,A., Razumovskaya,J.,
+            Richardson,P., Rinaldi,C., Ritland,K., Rouze,P., Ryaboy,D.,
+            Schmutz,J., Schrader,J., Segerman,B., Shin,H., Siddiqui,A.,
+            Sterky,F., Terry,A., Tsai,C.J., Uberbacher,E., Unneberg,P.,
+            Vahala,J., Wall,K., Wessler,S., Yang,G., Yin,T., Douglas,C.,
+            Marra,M., Sandberg,G., Van de Peer,Y. and Rokhsar,D.
+  TITLE     The genome of black cottonwood, Populus trichocarpa (Torr. & Gray)
+  JOURNAL   Science 313 (5793), 1596-1604 (2006)
+   PUBMED   16973872
+REFERENCE   2  (bases 1 to 1710)
+  AUTHORS   Shu,S., Lucas,S., Jenkins,J., Grimwood,J., Muchero,w., Hayes,R.,
+            Goodstein,D., Rokhsar,D., Schmutz,J. and Tuskan,G.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-SEP-2012) US DOE Joint Genome Institute, Mitchell
+            Drive B100, Walnut Creek, CA 94598-1698, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NC_008482).
+            On Dec 16, 2013 this sequence version replaced gi:224138937.
+            COMPLETENESS: incomplete on both ends.
+FEATURES             Location/Qualifiers
+     source          1..1710
+                     /organism="Populus trichocarpa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3694"
+                     /linkage_group="LGXVI"
+     gene            <1..>1710
+                     /locus_tag="POPTR_0016s11520g"
+                     /old_locus_tag="POPTRDRAFT_777748"
+                     /db_xref="GeneID:7466027"
+     CDS             1..1710
+                     /locus_tag="POPTR_0016s11520g"
+                     /old_locus_tag="POPTRDRAFT_777748"
+                     /note="encoded by transcript POPTR_0016s115201"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_002322939.2"
+                     /db_xref="Phytozome:POPTR_0016s11520.1.p"
+                     /db_xref="GeneID:7466027"
+                     /translation="MLRLLFLLTCALALLASSVASAAIVERSFYVKNLTVRRLCSEQV
+                     VTAVNGSLPGPTLRVREGDTLIVHVFNKSPYDLSIHWHGVFQLLSAWADGPSMVTQCP
+                     ITPGGKYTYKFKLLQQEGTLWWHAHFSLLRATVYGALLIRPRSGHPYPFPKPNKEVPI
+                     LLGEWWNADVVGIERKAAATGAPPKISDAYTINGLPGDLYNCSQNRMYKLKVQKGKTY
+                     LLRIINAALDNQLFFKIANHNMTVVAVDAGYTVPYVTDVVVTGPGQTVDVLLAADQEV
+                     GSYFMAANAYASAGPAPPAFPAPPPFDNTTTRGIVVYEGAPTSATPIMPLMPAFTDTP
+                     TAHKFFTSITGLAGGPHWVPVPRHIDEHMFVTVGLGLSICPTCLNGTRLSASMNNFSF
+                     ARPSSLSMLQAFFFNVSGIYTPDFPDTPPVKFDYTNVINAVNPSLLITPKSTSVKVLK
+                     YNATVEMVLQNTALLGVENHPIHLHGFNFHVLAQGFGNYDPVNDPKKFNLINPLSRNT
+                     INVPVGGWGVIRFTANNPGVWFIHCHLEAHLPMGLATAFVVENGPTPESTLPPPPVDL
+                     PQC"
+ORIGIN      
+        1 atgttgcgtc ttctgttttt gttaacttgt gctttggctc ttctagcttc ttcagtggct
+       61 tctgctgcaa ttgtggaacg ctcattctat gtgaaaaacc ttacagttcg tcggctgtgc
+      121 tccgagcaag tggtaactgc agtgaatggc agcttgccag gcccaacgct tcgcgttcga
+      181 gagggagaca cccttatagt ccatgttttt aacaagtcac cctacgacct gagtattcac
+      241 tggcatggag tgtttcaatt acttagtgcg tgggccgatg gaccttctat ggttactcaa
+      301 tgtccaataa cccctggagg taaatacacc tacaaattta aactcctcca gcaagagggt
+      361 acgctatggt ggcatgctca tttcagtctt ctccgagcaa cagtttatgg ggcactcctt
+      421 atccgtccaa gatctggtca tccttatcct ttccctaaac ccaacaaaga agttccaatt
+      481 ctattaggag agtggtggaa tgctgatgtt gttggtatcg aaaggaaggc agctgccact
+      541 ggtgcaccac ctaaaatttc ggatgcctac accataaatg gactccctgg ggatctctac
+      601 aattgctctc aaaacagaat gtacaagctt aaggtgcaga aagggaagac ttatctcctc
+      661 cgaataatca acgctgctct cgataaccag ctctttttca agatagccaa tcataatatg
+      721 acagtcgttg ctgtcgatgc agggtacacg gtaccctatg tcacggatgt tgttgtcacc
+      781 ggccccggcc agaccgtgga cgttcttctc gcagccgacc aggaagtggg gtcttatttc
+      841 atggctgcaa acgcatatgc tagtgctggt cctgctcctc ctgcttttcc tgcacctcca
+      901 ccctttgata atacaaccac aagaggaatt gttgtctacg aaggtgcacc cacatcagca
+      961 actccgataa tgccactaat gcctgcgttc actgacaccc ccacagccca caagttcttc
+     1021 accagcatta ctggccttgc tggtgggcct cattgggtcc cagtcccacg tcatatcgat
+     1081 gagcacatgt ttgtgacagt aggcttgggg ctctcaattt gtccaacatg tttaaatggg
+     1141 acgcgactct ctgctagcat gaacaatttc tcttttgcgc gcccttcaag tttgtcaatg
+     1201 ttgcaagcct tctttttcaa tgtgagtgga atctacactc ctgacttccc tgatactcct
+     1261 cctgtcaaat ttgactacac taatgtcatc aacgccgtaa atccatcact gttaatcaca
+     1321 ccaaaatcaa caagtgtgaa ggtgttgaag tataacgcta cggtggagat ggtgttgcag
+     1381 aacacagcct tacttggtgt ggagaatcat cccatacatc ttcacggttt caatttccat
+     1441 gtgttggctc aagggtttgg aaattatgat cctgtcaacg accctaagaa gttcaacctt
+     1501 atcaatccac tatcacgtaa cactattaat gtgccggtgg gaggatgggg agtcataaga
+     1561 tttacagcca acaatccagg tgtatggttt attcactgtc atctggaagc gcacttgccc
+     1621 atgggattag ccaccgcttt cgtggttgag aatggaccga cgccagagtc gactttgcca
+     1681 ccacctccag ttgatctgcc tcagtgttag
+//
+

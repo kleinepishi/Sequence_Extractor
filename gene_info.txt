@@ -1,0 +1,21 @@
+Accession#	Length	GI	Organism	Locus tag	Product	Protein_ID
+XM_002298228	1248	7475137	  Populus trichocarpa		hypothetical protein	XP_002298264.1
+XM_002301000	1938	7463199	  Populus trichocarpa		high affinity sulfate transporter family protein	XP_002301036.1
+XM_002307330	915	7486583	  Populus trichocarpa		hypothetical protein	XP_002307366.1
+XM_002309379	600	7492240	  Populus trichocarpa		integral membrane family protein	XP_002309415.1
+XM_002310128	1614	7483137	  Populus trichocarpa		multi-copper oxidase type 1 family protein	XP_002310164.1
+XM_002315669	1652	7492413	  Populus trichocarpa		phosphate transporter 2 family protein	XP_002315705.1
+XM_002299258	710	7460533	  Populus trichocarpa		hypothetical protein	XP_002299294.2
+XM_002299553	1671	7478102	  Populus trichocarpa		hypothetical protein	XP_002299589.1
+XM_002299857	973	7485726	  Populus trichocarpa		nodulin-26 family protein	XP_002299893.1
+XM_002300212	2046	7465052	  Populus trichocarpa		auxin-responsive GH3 family protein	XP_002300248.2
+XM_002300149	915	7461680	  Populus trichocarpa		hypothetical protein	XP_002300185.2
+XM_002299009	1821	7480418	  Populus trichocarpa		hypothetical protein	XP_002299045.1
+XM_002301158	1506	7476076	  Populus trichocarpa		patatin-like family protein	XP_002301194.1
+XM_002304781	2006	7462810	  Populus trichocarpa		hypothetical protein	XP_002304817.2
+XM_002305521	672	7470445	  Populus trichocarpa		hypothetical protein	XP_002305557.1
+XM_002308953	771	7485480	  Populus trichocarpa		phospholipase A2 family protein	XP_002308989.1
+XM_002313474	1114	7491133	  Populus trichocarpa		hypothetical protein	XP_002313510.1
+XM_002314165	1089	7489277	  Populus trichocarpa		nodulin-26 family protein	XP_002314201.1
+XM_002320982	598	7491312	  Populus trichocarpa		hypothetical protein	XP_002321018.2
+XM_002322903	1710	7466027	  Populus trichocarpa		hypothetical protein	XP_002322939.2
