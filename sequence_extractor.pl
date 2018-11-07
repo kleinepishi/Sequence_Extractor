@@ -38,7 +38,7 @@ for (<IN>) {
       }
       else {
       s/^\s+// ;
-      $f = (split /\"/)[0];
+      $f = (split /\""/)[0];
       $file{product} = "$file{product} $f";
       $test_case = 0;
       }
@@ -51,7 +51,7 @@ for (<IN>) {
   $file{bp} = ($second);
       }
       elsif (/GeneID/) {
-  my $Gene_ID = (split /\"/)[1];
+  my $Gene_ID = (split /\""/)[1];
   $file{Gene_ID} =(split /\:/, $Gene_ID)[1];
       }
       elsif (/ORGANISM/) {
@@ -67,7 +67,7 @@ for (<IN>) {
                   $file{product} = $pro[1];
       }
       elsif (/XP_/) {
-  $file{Protein_ID} = (split /\"/)[1]; 
+  $file{Protein_ID} = (split /\""/)[1]; 
       }
       elsif (/^$/) {
   print OUT "$file{Accession}\t$file{bp}\t$file{Gene_ID}\t$file{Organism_ID}\t$file{Locus_ID}\t$file{product}\t$file{Protein_ID}\n";
@@ -80,4 +80,3 @@ close (IN);
 
 close (OUT);
 closedir (DIRECTORY);
-
